@@ -1606,3 +1606,13 @@ ul.tabs-nav li:last-child{
 #post-404 h3{
     font-weight: normal;
 }
+
+/* aditya's tweaks */
+#primary-menu > ul > li > a {
+    padding-top: 48px;
+}
+
+#page-title h1 {
+    font-size: 1.8em;
+    padding: 9px 0;
+}
