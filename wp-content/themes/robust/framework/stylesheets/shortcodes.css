@@ -1,0 +1,195 @@
+#fresh-shortcodes-popup{
+	width:800px;
+	overflow:hidden;
+}
+#fresh-shortcodes-popup.no_preview{
+	width:560px;
+}
+
+/* Form Wrap -------------------------- */
+#fresh-shortcodes-form-wrap{
+	width:550px;
+	float:left;
+}
+#fresh-shortcodes-form-wrap #fresh-shortcodes-form-head{
+	width:520px;
+	padding:15px;
+	color:#fff;
+	font-weight:bold;
+	line-height:1;
+	text-shadow:0 -1px 0 #000;
+	background-color:#404040;
+}
+#fresh-shortcodes-popup.no_preview #fresh-shortcodes-form-wrap #fresh-shortcodes-form-head{
+	width:530px;
+}
+#fresh-shortcodes-form-wrap #fresh-shortcodes-form {
+	width:490px;
+	padding:15px;
+}
+
+/* Preview Wrap
+ * ---------------------------------------- */
+#fresh-shortcodes-preview-wrap{
+	width:249px;
+	background:#f7f7f7;
+	border-left:solid 1px #d0d0d0;
+	position:relative;
+	float:left;
+}
+#fresh-shortcodes-popup.no_preview #fresh-shortcodes-preview-wrap{
+	display:none;
+}
+#fresh-shortcodes-preview-wrap #fresh-shortcodes-preview-head {
+	width:219px;
+	padding:15px;
+	color:#333;
+	font-weight:bold;
+	line-height:1;
+	text-shadow:0 1px 0px #fff;
+	background-color:#dddddd;
+	background-image:-webkit-gradient(linear, left top, left bottom, from(#dddddd), to(#d0d0d0)); 
+	background-image:-webkit-linear-gradient(top, #dddddd, #d0d0d0); 
+	background-image:-moz-linear-gradient(top, #dddddd, #d0d0d0); 
+	background-image:-ms-linear-gradient(top, #dddddd, #d0d0d0); 
+	background-image:-o-linear-gradient(top, #dddddd, #d0d0d0); 
+	background-image:linear-gradient(top, #dddddd, #d0d0d0);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#dddddd', EndColorStr='#d0d0d0');
+}
+#fresh-shortcodes--preview-wrap #fresh-shortcodes-nopreview{
+	padding:15px;
+	width:219px;
+	font-size:14px;
+	font-weight:bold;
+	color:#777;
+	text-shadow:0 1px 0 #fff;
+	text-align:center;
+}
+
+/* Form Table
+ * ---------------------------------------- */
+#fresh-shortcodes-form-table {
+	width:520px;
+}
+#fresh-shortcodes-form-table tbody tr.form-row{
+	display:block;
+	padding:10px 0;
+	border-bottom:solid 1px #eaeaea;
+	max-width::520px;
+}
+#fresh-shortcodes-form-table tbody tr.form-row.has-child{
+	display:block;
+	padding:10px 0 0;
+	border-bottom:none;
+}
+#fresh-shortcodes-form-table tbody:last-child tr.form-row{
+	border-bottom:none;
+}
+#fresh-shortcodes-form-table tbody tr.form-row td.label{
+	width:120px;
+	max-width:120px;
+	text-align:left;
+	vertical-align:top;
+	line-height:35px;
+	padding-right:20px;
+	font-weight:bold;
+}
+#fresh-shortcodes-form-table tbody tr.form-row .field{
+	width:380px;
+}
+#fresh-shortcodes-form-table tbody tr.form-row .freshthemes-insert{
+	color:#fff;
+}
+
+/* Form Element
+ * ---------------------------------------- */
+#fresh-shortcodes-form-table input[type="text"],
+#fresh-shortcodes-form-table input[type="email"],
+#fresh-shortcodes-form-table input[type="url"],
+#fresh-shortcodes-form-table input[type="number"],
+#fresh-shortcodes-form-table input[type="password"],
+#fresh-shortcodes-form-table textarea{=
+	padding:5px 6px;
+	margin:0 0 10px 0;
+}
+#fresh-shortcodes-form-table textarea{
+	max-width: 100%;
+	overflow:auto;
+}
+#fresh-shortcodes-form-table tbody tr.form-row .field .fresh-shortcodes-form-desc,
+#fresh-shortcodes-form-table tbody tr.form-row .child-clone-row-desc {
+	display:block;
+	font-size:11px;
+	line-height:16px;
+	color:#999;
+	font-style:italic;
+	clear:both;
+}
+
+/* Sortable
+ * ---------------------------------------- */
+#fresh-shortcodes-form-table .has-child #form-child-add{
+	display:block;
+	width:520px;
+	margin:0 0 20px;
+	padding:8px 20px;
+	height:auto;
+	text-align:center;
+	font-weight:bold;
+}
+#fresh-shortcodes-form-table .has-child .child-clone-rows {
+	display: block;
+}
+#fresh-shortcodes-form-table .has-child .child-clone-row-field {
+	margin-bottom:15px;
+}
+#fresh-shortcodes-form-table .has-child .child-clone-rows .child-clone-row {
+	padding:10px 20px 10px;
+	background:#FFF;
+	border:solid 1px #ddd;
+	margin-bottom:15px;
+	cursor:move;
+	-moz-border-radius:3px;
+	border-radius:3px;
+}
+#fresh-shortcodes-form-table .has-child .sortable-placeholder {
+	border:dashed 2px #e0e0e0;
+	margin-bottom:10px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	background:#f7f7f7;
+	height:40px;
+}
+#fresh-shortcodes-form-table .has-child .child-clone-rows .child-clone-row .child-clone-row-form {
+	display:block;
+	margin-bottom:5px;
+}
+#fresh-shortcodes-form-table .has-child .child-clone-rows .child-clone-row .child-clone-row-form .child-clone-row-form-row {
+	display:block;
+}
+#fresh-shortcodes-form-table .has-child .child-clone-rows .child-clone-row .child-clone-row-form .child-clone-row-form-row .child-clone-row-field input[type="text"],
+#fresh-shortcodes-form-table .has-child .child-clone-rows .child-clone-row .child-clone-row-form .child-clone-row-form-row .child-clone-row-field textarea{
+	width: 100%;
+}
+#fresh-shortcodes-form-table .has-child .child-clone-rows .child-clone-row .child-clone-row-form .child-clone-row-form-row .child-clone-row-field textarea{
+	min-height: 80px;
+}
+#fresh-shortcodes-form-table .has-child .child-clone-rows .child-clone-row .child-clone-row-form .child-clone-row-form-row .child-clone-row-label label {
+	display:block;
+	font-weight:bold;
+	padding-bottom:10px;
+	line-height:1;
+}
+#fresh-shortcodes-form-table .has-child .child-clone-rows .child-clone-row .child-clone-row-remove {
+	color:#FF0000;
+	padding:1px;
+}
+#fresh-shortcodes-form-table .has-child .child-clone-rows .child-clone-row .child-clone-row-remove:hover {
+	color:#fff;
+	background:#FF0000;
+}
+
+/* Button */
+#fresh-shortcodes-form-table .field a.button-primary.fresh-shortcodes-insert{
+	color:#FFF;
+}

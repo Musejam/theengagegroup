@@ -1,0 +1,325 @@
+.clearfix:before, .clearfix:after{
+	content:'\0020';
+	display:block;
+	overflow:hidden;
+	width:0;
+	height:0
+}
+.clearfix:after{
+	clear:both
+}
+.clearfix{
+	zoom:1
+}
+.ui-datepicker.ui-widget{
+	display: none;
+}
+
+/* Wrapper
+ * ---------------------------------------------------- */
+.fresh_metabox{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 100%;
+	max-width: 100%;
+}
+.fresh_metabox *{
+	max-width: 100%;
+}
+.fresh_metabox tr{
+}
+.fresh_metabox th{
+	padding: 10px 0px 10px 10px;
+	font-weight: bold;
+	width: 20%;
+	max-width: 20%;
+}
+.fresh_metabox td{
+	padding: 10px 10px 10px 0px;
+	width: 80%;
+	max-width: 80%;
+}
+.fresh_metabox .description{
+	display: block;
+	margin-top: 8px;
+}
+
+/* Input
+ * ----------------------------------------------------- */
+.fresh_metabox .fresh_metabox_input{
+	background-color: #fff;
+	border: 1px solid #dfdfdf;
+	border-radius: 2px;
+	max-width: 100%;
+	padding: 5px 6px;
+	height: 30px;
+	outline: none;
+}
+.fresh_metabox .fresh_metabox_input:focus{
+	background-color: #fff;
+	border-color: #ddd;
+	-webkit-box-shadow: none;
+	   -moz-box-shadow: none;
+			box-shadow: none;
+	outline: none;
+}
+.fresh_metabox .fresh_metabox_text,
+.fresh_metabox .fresh_metabox_date,
+.fresh_metabox .fresh_metabox_select{
+	min-width: 60%;
+}
+.fresh_metabox .fresh_metabox_textarea{
+	min-width: 60%;
+	height: auto;
+	overflow: auto;
+}
+.fresh_metabox label span{
+	padding: 0px 10px 0px 5px;
+}
+.fresh_metabox .button{
+	padding: 2px 10px 3px 10px;
+	height: auto;
+	border-radius: 2px;
+}
+
+/* Radio & Checkbox
+ * ----------------------------------------------------- */
+.fresh_metabox .fresh_metabox_radio,
+.fresh_metabox .fresh_metabox_checkbox{
+	border: none;
+	width: auto;
+	height: auto;
+	padding: 0px;
+	margin: 1px 0px 0px;
+}
+
+/* Color Picker
+ * ----------------------------------------------------- */
+.fresh_metabox .fresh_metabox_color{
+	width: 10%;
+	display: block;
+	float: left;
+}
+
+/* Toggle Switch
+ * ----------------------------------------------------- */
+.fresh_metabox_toggle{
+	display: none;
+}
+.fresh_metabox label.toggle_on, 
+.fresh_metabox label.toggle_off{
+	background-color: #fff;
+	-webkit-box-shadow: inset 1px 1px 3px rgba(0,0,0,0.05), 0px 1px 2px rgba(0,0,0,0.05);
+	   -moz-box-shadow: inset 1px 1px 3px rgba(0,0,0,0.05), 0px 1px 2px rgba(0,0,0,0.05);
+			box-shadow: inset 1px 1px 3px rgba(0,0,0,0.05), 0px 1px 2px rgba(0,0,0,0.05);
+	border: 1px solid #ddd;
+	display: block;
+	float: left;
+	height: 28px;
+	margin: 0px;
+	padding: 0px;
+	width: auto;
+}
+.fresh_metabox label.toggle_on,
+.fresh_metabox label.toggle_on span{
+	border-right: none;
+	border-radius: 2px 0px 0px 2px;
+}
+.fresh_metabox label.toggle_off,
+.fresh_metabox label.toggle_off span{
+	border-left: none;
+	border-radius: 0px 2px 2px 0px;
+}
+.fresh_metabox label.toggle_on span,
+.fresh_metabox label.toggle_off span{
+	padding: 0 10px;
+}
+.fresh_metabox label.toggle_on span, 
+.fresh_metabox label.toggle_off span{
+	border: 1px solid transparent;
+	display: block;
+	font-weight: bold;
+	line-height: 28px;
+	margin: -1px 0px -1px -1px;
+	padding: 0px 10px;
+	text-align: center;
+	text-shadow: 1px 1px 1px #fff;
+	cursor: pointer;
+}
+.fresh_metabox label.toggle_on span{
+	margin: -1px 0px -1px -1px;
+} 
+.fresh_metabox label.toggle_off span{
+	margin: -1px -1px -1px 0px;
+}
+.fresh_metabox label.toggle_on.selected span{
+	background:#65b20e;
+	background-image:-webkit-gradient(linear,left bottom,left top,color-stop(0,#599b0d),color-stop(100%,#65b20e));
+	background-image:-webkit-linear-gradient(bottom,#599b0d 0,#65b20e 100%);
+	background-image:-moz-linear-gradient(bottom,#599b0d 0,#65b20e 100%);
+	background-image:-o-linear-gradient(bottom,#599b0d 0,#65b20e 100%);
+	background-image:linear-gradient(to top,#599b0d 0,#65b20e 100%);
+	border-color: #477a09;
+	color: #fff;
+	cursor: default;
+	text-shadow: -1px -1px 1px rgba(0,0,0,0.2);
+}
+.fresh_metabox label.toggle_off.selected span{
+	background:#777777;
+	background-image:-webkit-gradient(linear,left bottom,left top,color-stop(0,#555555),color-stop(100%,#777777));
+	background-image:-webkit-linear-gradient(bottom,#555555 0,#777777 100%);
+	background-image:-moz-linear-gradient(bottom,#555555 0,#777777 100%);
+	background-image:-o-linear-gradient(bottom,#555555 0,#777777 100%);
+	background-image:linear-gradient(to top,#555555 0,#777777 100%);
+	border-color: #333;
+	color: #fff;
+	cursor: default;
+	text-shadow: -1px -1px 1px rgba(0,0,0,0.2);
+}
+
+/* Slider
+ * ----------------------------------------------------- */
+.fresh_metabox .fresh_metabox_input.fresh_metabox_slider{
+	height: 10px;
+	border: 1px solid #e0e0e0;
+	float: left;
+	margin-top: 1px;
+	width: 60%;
+	padding: 0px;
+	position: relative;
+}
+.fresh_metabox .fresh_metabox_slider_val{
+	color: #888;
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 1.3em;
+	float: left;
+	width: 20px;
+	margin: 0px 5px 0px 15px;
+	text-align: right;
+}
+.fresh_metabox .fresh_metabox_input.fresh_metabox_slider .ui-slider-handle {
+	background:#ffffff;
+	background-image:-webkit-gradient(linear,left bottom,left top,color-stop(0,#f0f0f0),color-stop(100%,#ffffff));
+	background-image:-webkit-linear-gradient(bottom,#f0f0f0 0,#ffffff 100%);
+	background-image:-moz-linear-gradient(bottom,#f0f0f0 0,#ffffff 100%);
+	background-image:-o-linear-gradient(bottom,#f0f0f0 0,#ffffff 100%);
+	background-image:linear-gradient(to top,#f0f0f0 0,#ffffff 100%);
+	border: 1px solid #c5c5c5;
+	-webkit-border-radius: 2px;
+	   -moz-border-radius: 2px;
+			border-radius: 2px;
+	width: 16px;
+	height: 16px;
+	position:absolute;
+	top: -4px;
+	margin-left: -8px;
+}
+.fresh_metabox .fresh_metabox_input.fresh_metabox_slider .ui-widget-header {
+	background:#dddddd;
+	background-image:-webkit-gradient(linear,left bottom,left top,color-stop(0,#d0d0d0),color-stop(100%,#dddddd));
+	background-image:-webkit-linear-gradient(bottom,#d0d0d0 0,#dddddd 100%);
+	background-image:-moz-linear-gradient(bottom,#d0d0d0 0,#dddddd 100%);
+	background-image:-o-linear-gradient(bottom,#d0d0d0 0,#dddddd 100%);
+	background-image:linear-gradient(to top,#d0d0d0 0,#dddddd 100%);
+	border: 1px solid #c5c5c5;
+	-webkit-border-radius: 2px;
+	   -moz-border-radius: 2px;
+			border-radius: 2px;
+	height:10px;
+	left:-1px;
+	top:-1px;
+	position:absolute;
+}
+
+/* Upload
+ * ----------------------------------------------------- */
+.fresh_metabox .fresh_metabox_upload{
+	width: 50%;
+	margin-right: 5px
+}
+.fresh_metabox .screenshot img{
+    background: #fafafa;
+	-webkit-box-shadow: inset 1px 1px 3px rgba(0,0,0,0.05), 0px 1px 2px rgba(0,0,0,0.05);
+	   -moz-box-shadow: inset 1px 1px 3px rgba(0,0,0,0.05), 0px 1px 2px rgba(0,0,0,0.05);
+			box-shadow: inset 1px 1px 3px rgba(0,0,0,0.05), 0px 1px 2px rgba(0,0,0,0.05);
+	border: 1px solid #dfdfdf;
+	margin-top: 20px;
+	padding: 2px;
+	position: relative;
+	max-width: 58%;
+}
+.fresh_metabox .remove_image{
+	background: #fd4141 url('../images/remove.png') no-repeat center center;
+	cursor: pointer;
+	position: absolute;
+	bottom: 2px; right: 2px;
+	width: 18px;
+	height: 18px;
+	text-indent: -9999em;
+}
+
+.fresh_metabox ul.multi_upload{
+	clear: both;
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+}
+.fresh_metabox ul.multi_upload:after{
+	display: block;
+	content: '';
+	clear: both;
+}
+.fresh_metabox ul.multi_upload li{
+	float: left;
+	background: #fafafa;
+	border: 1px solid #dfdfdf;
+	padding: 2px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	position: relative;
+}
+.fresh_metabox ul.multi_upload li.hidden{
+	display: none;
+}
+.fresh_metabox ul.multi_upload li img{
+	display: block;
+	width: 150px;
+	height: 150px;
+}
+
+/* Background
+ * ----------------------------------------------------- */
+.fresh_metabox .fresh_metabox_background_color{
+	margin-right: 4px
+}
+.fresh_metabox .fresh_metabox_background_image{
+	width: 34%;
+	margin-right: 5px
+}
+.fresh_metabox .fresh_metabox_background_properties{
+	margin-top: 20px;
+}
+.fresh_metabox .fresh_metabox_background_repeat,
+.fresh_metabox .fresh_metabox_background_position,
+.fresh_metabox .fresh_metabox_background_attachment{
+	width: 19.8%;
+	margin-right: 5px
+}
+.fresh_metabox .fresh_metabox_background_attachment{
+	margin-right: 0px
+}
+
+/* Image Selector
+ * ----------------------------------------------------- */
+.fresh_metabox .fresh_metabox_option_images img{
+	border: 2px solid #dfdfdf;
+	margin-right: 5px;
+	padding: 2px;
+	cursor: pointer;
+	opacity: 0.35;
+}
+.fresh_metabox .fresh_metabox_option_images img.selected{
+	opacity: 1
+}

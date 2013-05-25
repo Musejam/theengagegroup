@@ -1,0 +1,3666 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Robust\n"
+"POT-Creation-Date: 2013-03-20 08:21+0700\n"
+"PO-Revision-Date: 2013-03-20 08:22+0700\n"
+"Last-Translator: Rifki Aria Gumelar <me@rifki.net>\n"
+"Language-Team: FreshThemes <me@rifki.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_attr__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../robust/404.php:11
+msgid "Page not Found!"
+msgstr ""
+
+#: ../robust/404.php:12
+msgid "Error 404! Sorry, but we couldn't find the page you were looking for."
+msgstr ""
+
+#: ../robust/comments.php:6 ../twentyeleven/comments.php:17
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../robust/comments.php:19
+msgid "One comment"
+msgstr ""
+
+#: ../robust/comments.php:32 ../twentyeleven/comments.php:41
+#: ../twentyeleven/comments.php:61 ../twentytwelve/comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../robust/comments.php:33 ../twentyeleven/comments.php:42
+#: ../twentyeleven/comments.php:62 ../twentytwelve/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../robust/comments.php:38 ../twentyeleven/comments.php:71
+#: ../twentytwelve/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: ../robust/comments.php:45
+msgid "Name (required)"
+msgstr ""
+
+#: ../robust/comments.php:46
+msgid "Email (required)"
+msgstr ""
+
+#: ../robust/comments.php:47
+msgid "Website URL"
+msgstr ""
+
+#: ../robust/comments.php:59
+msgid "<span>Leave a Reply</span>"
+msgstr ""
+
+#: ../robust/footer.php:32 ../robust/header.php:78
+msgid "Home"
+msgstr ""
+
+#: ../robust/footer.php:33 ../robust/header.php:84
+msgid "Configure"
+msgstr ""
+
+#: ../robust/footer.php:43
+#, php-format
+msgid "&copy; %1$s <a href=\"%3$s\" title=\"%2$s\">%2$s</a>%4$s"
+msgstr ""
+
+#: ../robust/header.php:79
+msgid "Start from here"
+msgstr ""
+
+#: ../robust/header.php:85
+msgid "Configure this menu"
+msgstr ""
+
+#: ../robust/index.php:27 ../twentytwelve/index.php:38
+msgid "No posts to display"
+msgstr ""
+
+#: ../robust/index.php:28 ../twentytwelve/index.php:42
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../robust/index.php:30 ../twentyeleven/archive.php:57
+#: ../twentyeleven/author.php:74 ../twentyeleven/category.php:50
+#: ../twentyeleven/index.php:37 ../twentyeleven/search.php:42
+#: ../twentyeleven/tag.php:50 ../twentytwelve/content-none.php:13
+#: ../twentytwelve/index.php:49 ../twentytwelve/search.php:34
+msgid "Nothing Found"
+msgstr ""
+
+#: ../robust/index.php:31 ../twentytwelve/content-none.php:17
+#: ../twentytwelve/index.php:53
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../robust/page.php:26 ../robust/template-page-sidenav.php:56
+#: ../robust/includes/content-audio.php:46
+#: ../robust/includes/content-gallery.php:63
+#: ../robust/includes/content-image.php:45
+#: ../robust/includes/content-link.php:32
+#: ../robust/includes/content-quote.php:50
+#: ../robust/includes/content-status.php:37
+#: ../robust/includes/content-video.php:44 ../robust/includes/content.php:49
+#: ../twentyeleven/content-aside.php:34
+#: ../twentyeleven/content-featured.php:23
+#: ../twentyeleven/content-gallery.php:54 ../twentyeleven/content-image.php:28
+#: ../twentyeleven/content-intro.php:18 ../twentyeleven/content-link.php:34
+#: ../twentyeleven/content-page.php:18 ../twentyeleven/content-quote.php:36
+#: ../twentyeleven/content-single.php:24 ../twentyeleven/content-status.php:35
+#: ../twentyeleven/content.php:42 ../twentyeleven/image.php:90
+#: ../twentytwelve/content-page.php:18 ../twentytwelve/content.php:40
+#: ../twentytwelve/image.php:92
+msgid "Pages:"
+msgstr ""
+
+#: ../robust/searchform.php:2
+msgid "Search this site"
+msgstr ""
+
+#: ../robust/single-portfolio.php:86
+#: ../robust/functions/theme-metaboxes.php:307
+msgid "Client"
+msgstr ""
+
+#: ../robust/single-portfolio.php:90 ../robust/single-portfolio.php:92
+msgid "Date"
+msgstr ""
+
+#: ../robust/single-portfolio.php:98
+#: ../robust/functions/theme-post-type.php:75
+#: ../robust/functions/theme-post-type.php:76
+msgid "Categories"
+msgstr ""
+
+#: ../robust/single-portfolio.php:102
+#: ../robust/functions/theme-metaboxes.php:323
+msgid "Project URL"
+msgstr ""
+
+#: ../robust/single-portfolio.php:102
+msgid "Visit online &rarr;"
+msgstr ""
+
+#: ../robust/single-portfolio.php:108
+msgid "Prev Project"
+msgstr ""
+
+#: ../robust/single-portfolio.php:109
+msgid "Next Project"
+msgstr ""
+
+#: ../robust/template-portfolio-2.php:28 ../robust/template-portfolio-3.php:28
+#: ../robust/template-portfolio-4.php:28
+msgid "Filter:"
+msgstr ""
+
+#: ../robust/template-portfolio-2.php:29 ../robust/template-portfolio-3.php:29
+#: ../robust/template-portfolio-4.php:29
+msgid "All"
+msgstr ""
+
+#: ../robust/framework/admin.php:98 ../robust/framework/admin.php:99
+msgid "Fresh Panel"
+msgstr ""
+
+#: ../robust/framework/admin.php:189 ../robust/framework/admin.php:273
+msgid "Backup?"
+msgstr ""
+
+#: ../robust/framework/admin.php:190
+msgid "Hide"
+msgstr ""
+
+#: ../robust/framework/admin.php:191 ../robust/framework/metabox.php:83
+#: ../robust/framework/includes/media-uploader.php:25
+#: ../robust/framework/includes/media-uploader.php:99
+msgid "Upload"
+msgstr ""
+
+#: ../robust/framework/admin.php:192 ../robust/framework/metabox.php:84
+#: ../robust/framework/page-builder.php:55
+#: ../robust/framework/includes/media-uploader.php:25
+#: ../robust/framework/includes/media-uploader.php:100
+msgid "Remove"
+msgstr ""
+
+#: ../robust/framework/admin.php:193 ../robust/framework/metabox.php:85
+#: ../robust/framework/includes/media-uploader.php:101
+msgid "Select Image"
+msgstr ""
+
+#: ../robust/framework/admin.php:194 ../robust/framework/metabox.php:86
+msgid "Only image is allowed, please try again!"
+msgstr ""
+
+#: ../robust/framework/admin.php:195 ../robust/framework/metabox.php:87
+#: ../robust/framework/page-builder.php:56
+msgid "Are you sure?"
+msgstr ""
+
+#: ../robust/framework/admin.php:276
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../robust/framework/admin.php:280
+msgid "Save Options"
+msgstr ""
+
+#: ../robust/framework/admin.php:297
+msgid "Import Settings"
+msgstr ""
+
+#: ../robust/framework/admin.php:303
+msgid "Export Settings"
+msgstr ""
+
+#: ../robust/framework/admin.php:372
+msgid "Default options restored."
+msgstr ""
+
+#: ../robust/framework/admin.php:430
+msgid "Options saved."
+msgstr ""
+
+#: ../robust/framework/admin.php:483
+msgid "There was a problem exporting your settings. Please Try again."
+msgstr ""
+
+#: ../robust/framework/admin.php:521
+msgid "No file selected. Please try again."
+msgstr ""
+
+#: ../robust/framework/admin.php:542
+msgid "It seems you chose the wrong file. Please try again."
+msgstr ""
+
+#: ../robust/framework/metabox.php:259
+#: ../robust/framework/includes/interface.php:279
+#: ../robust/functions/theme-metaboxes.php:25
+#: ../robust/functions/theme-options.php:19
+msgid "Enable"
+msgstr ""
+
+#: ../robust/framework/metabox.php:260
+#: ../robust/framework/includes/interface.php:280
+#: ../robust/functions/theme-metaboxes.php:25
+#: ../robust/functions/theme-options.php:19
+msgid "Disable"
+msgstr ""
+
+#: ../robust/framework/metabox.php:360
+#: ../robust/framework/includes/sanitize.php:250
+msgid "Repeat All"
+msgstr ""
+
+#: ../robust/framework/metabox.php:361
+#: ../robust/framework/includes/sanitize.php:247
+msgid "No Repeat"
+msgstr ""
+
+#: ../robust/framework/metabox.php:362
+#: ../robust/framework/includes/sanitize.php:248
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../robust/framework/metabox.php:363
+#: ../robust/framework/includes/sanitize.php:249
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../robust/framework/metabox.php:374
+#: ../robust/framework/includes/sanitize.php:275
+msgid "Top Center"
+msgstr ""
+
+#: ../robust/framework/metabox.php:375
+#: ../robust/framework/includes/sanitize.php:274
+msgid "Top Left"
+msgstr ""
+
+#: ../robust/framework/metabox.php:376
+#: ../robust/framework/includes/sanitize.php:276
+msgid "Top Right"
+msgstr ""
+
+#: ../robust/framework/metabox.php:377
+#: ../robust/framework/includes/sanitize.php:278
+msgid "Middle Center"
+msgstr ""
+
+#: ../robust/framework/metabox.php:378
+#: ../robust/framework/includes/sanitize.php:277
+msgid "Middle Left"
+msgstr ""
+
+#: ../robust/framework/metabox.php:379
+#: ../robust/framework/includes/sanitize.php:279
+msgid "Middle Right"
+msgstr ""
+
+#: ../robust/framework/metabox.php:380
+#: ../robust/framework/includes/sanitize.php:281
+msgid "Bottom Center"
+msgstr ""
+
+#: ../robust/framework/metabox.php:381
+#: ../robust/framework/includes/sanitize.php:280
+msgid "Bottom Left"
+msgstr ""
+
+#: ../robust/framework/metabox.php:382
+#: ../robust/framework/includes/sanitize.php:282
+msgid "Bottom Right"
+msgstr ""
+
+#: ../robust/framework/metabox.php:393
+#: ../robust/functions/theme-options.php:330
+msgid "Fixed"
+msgstr ""
+
+#: ../robust/framework/metabox.php:394
+msgid "Scroll"
+msgstr ""
+
+#: ../robust/framework/page-builder.php:30
+msgid "Page Builder"
+msgstr ""
+
+#: ../robust/framework/page-builder.php:57
+msgid "Yes"
+msgstr ""
+
+#: ../robust/framework/page-builder.php:58
+msgid "No"
+msgstr ""
+
+#: ../robust/framework/page-builder.php:85
+msgid "Select module"
+msgstr ""
+
+#: ../robust/framework/page-builder.php:91
+msgid "Add Module"
+msgstr ""
+
+#: ../robust/framework/page-builder.php:191
+msgid "Increase Size"
+msgstr ""
+
+#: ../robust/framework/page-builder.php:192
+msgid "Decrease Size"
+msgstr ""
+
+#: ../robust/framework/page-builder.php:193
+msgid "Edit Module"
+msgstr ""
+
+#: ../robust/framework/page-builder.php:194
+msgid "Remove Module"
+msgstr ""
+
+#: ../robust/framework/page-builder.php:287
+msgid "Done editing?"
+msgstr ""
+
+#: ../robust/framework/page-builder.php:290
+msgid "Settings"
+msgstr ""
+
+#: ../robust/framework/page-builder.php:375
+msgid "Add "
+msgstr ""
+
+#: ../robust/framework/shortcodes.php:40
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../robust/framework/includes/interface.php:333
+msgid "Add Image"
+msgstr ""
+
+#: ../robust/framework/includes/interface.php:341
+msgid "Enter sidebar name"
+msgstr ""
+
+#: ../robust/framework/includes/interface.php:342
+msgid "Add Sidebar"
+msgstr ""
+
+#: ../robust/framework/includes/media-uploader.php:23
+msgid "No file chosen"
+msgstr ""
+
+#: ../robust/framework/includes/popup.php:23
+msgid "Insert Shortcodes"
+msgstr ""
+
+#: ../robust/framework/includes/popup.php:32
+msgid "Shortcode Preview"
+msgstr ""
+
+#: ../robust/framework/includes/popup.php:35
+msgid "Shortcode has no preview"
+msgstr ""
+
+#: ../robust/framework/includes/sanitize.php:306
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../robust/framework/includes/sanitize.php:307
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../robust/framework/includes/sanitize.php:421
+#: ../robust/functions/theme-options.php:330
+#: ../robust/functions/shortcodes/dropcap.php:27
+#: ../robust/functions/shortcodes/icon.php:40
+msgid "Normal"
+msgstr ""
+
+#: ../robust/framework/includes/sanitize.php:422
+msgid "Italic"
+msgstr ""
+
+#: ../robust/framework/includes/sanitize.php:423
+msgid "Bold"
+msgstr ""
+
+#: ../robust/framework/includes/sanitize.php:424
+msgid "Bold Italic"
+msgstr ""
+
+#: ../robust/functions/theme-comment-template.php:14
+#: ../twentyeleven/functions.php:525 ../twentytwelve/functions.php:277
+msgid "Pingback:"
+msgstr ""
+
+#: ../robust/functions/theme-comment-template.php:14
+#: ../robust/functions/theme-comment-template.php:45
+#: ../twentyeleven/content-aside.php:44
+#: ../twentyeleven/content-featured.php:45
+#: ../twentyeleven/content-gallery.php:90 ../twentyeleven/content-image.php:68
+#: ../twentyeleven/content-intro.php:19 ../twentyeleven/content-link.php:44
+#: ../twentyeleven/content-page.php:21 ../twentyeleven/content-quote.php:72
+#: ../twentyeleven/content-single.php:52 ../twentyeleven/content-status.php:45
+#: ../twentyeleven/content.php:82 ../twentyeleven/functions.php:525
+#: ../twentyeleven/functions.php:553 ../twentyeleven/image.php:41
+#: ../twentytwelve/content-aside.php:26 ../twentytwelve/content-image.php:26
+#: ../twentytwelve/content-link.php:24 ../twentytwelve/content-page.php:21
+#: ../twentytwelve/content-quote.php:23 ../twentytwelve/content-status.php:30
+#: ../twentytwelve/content.php:46 ../twentytwelve/functions.php:309
+#: ../twentytwelve/image.php:37
+msgid "Edit"
+msgstr ""
+
+#: ../robust/functions/theme-comment-template.php:34
+#, php-format
+msgid "%1$s %2$s - %3$s"
+msgstr ""
+
+#: ../robust/functions/theme-comment-template.php:40
+#: ../twentyeleven/functions.php:548 ../twentytwelve/functions.php:298
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../robust/functions/theme-comment-template.php:42
+#: ../twentyeleven/content-aside.php:22 ../twentyeleven/content-image.php:21
+#: ../twentyeleven/content-link.php:22 ../twentyeleven/content-quote.php:24
+#: ../twentyeleven/content-status.php:21 ../twentyeleven/content.php:30
+#: ../twentytwelve/functions.php:313
+msgid "Reply"
+msgstr ""
+
+#: ../robust/functions/theme-comment-template.php:50
+#: ../twentyeleven/functions.php:557 ../twentytwelve/functions.php:304
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../robust/functions/theme-functions.php:46
+msgid "Sidebar"
+msgstr ""
+
+#: ../robust/functions/theme-functions.php:48
+msgid "The sidebar widget area"
+msgstr ""
+
+#: ../robust/functions/theme-functions.php:57
+msgid "Footer Widget 1"
+msgstr ""
+
+#: ../robust/functions/theme-functions.php:59
+msgid "The 1st sidebar widget area for your site footer"
+msgstr ""
+
+#: ../robust/functions/theme-functions.php:68
+msgid "Footer Widget 2"
+msgstr ""
+
+#: ../robust/functions/theme-functions.php:70
+msgid "The 2nd sidebar widget area for your site footer"
+msgstr ""
+
+#: ../robust/functions/theme-functions.php:79
+msgid "Footer Widget 3"
+msgstr ""
+
+#: ../robust/functions/theme-functions.php:81
+msgid "The 4th sidebar widget area for your site footer"
+msgstr ""
+
+#: ../robust/functions/theme-functions.php:90
+msgid "Footer Widget 4"
+msgstr ""
+
+#: ../robust/functions/theme-functions.php:92
+msgid "The 3rd sidebar widget area for your site footer"
+msgstr ""
+
+#: ../robust/functions/theme-functions.php:103
+msgid "Dynamic sidebar"
+msgstr ""
+
+#: ../robust/functions/theme-functions.php:134 ../twentyeleven/header.php:45
+#: ../twentytwelve/functions.php:181
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../robust/functions/theme-functions.php:391
+#: ../robust/functions/theme-options.php:549 ../twentyeleven/functions.php:95
+#: ../twentytwelve/functions.php:64
+msgid "Primary Menu"
+msgstr ""
+
+#: ../robust/functions/theme-functions.php:392
+#: ../robust/functions/theme-options.php:558
+msgid "Footer Menu"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:62
+msgid "Gallery Post Format"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:70
+msgid "Gallery Images"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:71
+msgid "Upload your images."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:78
+msgid "Image Height"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:79
+msgid "Set the image height."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:109
+msgid "Video Post Format"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:117
+#: ../robust/functions/theme-metaboxes.php:291
+#: ../robust/functions/shortcodes/video.php:17
+msgid "Video URL"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:118
+#: ../robust/functions/theme-metaboxes.php:292
+#, php-format
+msgid "Paste the video URL here, click %s to see all available video hosts."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:128
+msgid "Link Post Format"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:135
+#: ../robust/functions/shortcodes/button.php:61
+msgid "Link Destination"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:136
+msgid "Enter the link destination URL."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:142
+msgid "Link to Display"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:143
+msgid ""
+"Enter the link URL to display. Sometimes you might add a referral link to "
+"the destination URL so that you can modify the link to be displayed in this "
+"field."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:150
+#: ../robust/functions/shortcodes/button.php:67
+msgid "Link Targeting"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:151
+msgid "Check this to make the link open in the new tab."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:160
+msgid "Quote Post Format"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:167
+msgid "Quote Author"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:168
+msgid "Enter the quote author name."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:174
+msgid "Quote Author Meta"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:175
+msgid ""
+"Enter the quote author meta, something like the author job, company or "
+"website name."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:181
+msgid "Quote Text"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:182
+msgid "Enter the quote here."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:191
+msgid "Audio Post Format"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:199
+msgid "Format"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:200
+msgid "Select the audio file format."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:203
+msgid "M4A"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:204
+msgid "MP3"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:205
+msgid "WAV"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:211
+msgid "Audio File"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:212
+msgid "Upload your audio file or paste the file URL."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:218
+msgid "OGG Audio File"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:219
+msgid "Optional, upload the OGG version of your audio file."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:229
+msgid "Post Settings"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:237
+#: ../robust/functions/theme-metaboxes.php:354
+msgid "Custom Sidebar"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:238
+msgid "Select a custom sidebar for this post."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:249
+msgid "Portfolio Settings"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:258
+#: ../robust/functions/theme-metaboxes.php:341
+msgid "Layout Style"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:259
+#: ../robust/functions/theme-metaboxes.php:342
+msgid "Select the layout style."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:271
+msgid "Subtitle"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:272
+msgid "The project subtitle."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:279
+msgid "Project Type"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:280
+msgid "Select the type."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:283
+#: ../robust/functions/theme-post-type.php:94
+#: ../twentyeleven/content-image.php:16
+msgid "Image"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:284
+msgid "Video"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:299
+msgid "Project Images"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:300
+msgid "Upload your project images."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:308
+msgid "Enter the client name."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:315
+msgid "Project Date"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:316
+msgid "Your project date."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:324
+msgid "Your project URL."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:333
+msgid "Custom Page Settings"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:355
+msgid "Select a custom sidebar for this page."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:363
+#: ../robust/functions/theme-options.php:337
+msgid "Page Title"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:364
+msgid "Check this to hide the page title bar."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:372
+msgid "Page Subtitle"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:373
+msgid "Enter the page subtitle, it will be displayed under the page title."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:380
+msgid "Enable Slider"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:381
+msgid "Check this to enable the slider for this page."
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:388
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../robust/functions/theme-metaboxes.php:389
+msgid "Select a revolution slider."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:69
+msgid "General"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:76
+#: ../robust/functions/theme-options.php:81
+msgid "Logo"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:82
+msgid "Upload your custom logo image"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:89
+msgid "Logo Top Margin"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:90
+msgid "Logo top margin value"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:98
+msgid "Favicons"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:103
+msgid "Favicon"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:104
+msgid "Upload your favicon (16x16)."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:111
+msgid "iPhone Favicon"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:112
+msgid "Upload your favicon (57x57) for iPhone device."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:119
+msgid "iPhone Retina Favicon"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:120
+msgid "Upload your favicon (114x114) for iPhone device  with retina display."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:127
+msgid "iPad Favicon"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:128
+msgid "Upload your favicon (72x72) for iPad device."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:135
+msgid "iPad Retina Favicon"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:136
+msgid "Upload your favicon (144x144) for iPad device with retina display."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:144
+msgid "Info"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:149
+msgid "Top Info"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:150
+msgid "Enter your top info content, HTML tags are allowed."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:158
+msgid "Call Us"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:159
+msgid "Enter your call us content, HTML tags are allowed."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:167
+msgid "Copyright"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:168
+msgid "Enter your copyright text content, HTML tags are allowed."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:177
+msgid "Integration"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:182
+msgid "Automatic Feed Links"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:183
+msgid ""
+"Enable/disable automatically feed links in the <code>&lt;head&gt;</code> "
+"section."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:190
+msgid "Head Code"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:191
+msgid ""
+"You can use this field to insert additional codes to be placed in the "
+"<code>wp_head()</code>. e.g. Custom script, analytic code, advertising code "
+"etc."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:198
+msgid "Footer Code"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:199
+msgid ""
+"You can use this field to insert additional codes to be placed in the "
+"<code>wp_footer()</code>. e.g. Custom script, analytic code, advertising "
+"code etc."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:210
+msgid "Customization"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:217
+msgid "Global"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:222
+msgid "Layout Type"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:223
+msgid "Select the preferred layout type."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:226
+msgid "Wide"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:227
+msgid "Boxed"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:234
+msgid "Responsive"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:235
+msgid "Enable/disable the responsive layout."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:242
+msgid "Body Background"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:243
+msgid "Customize your site background, this option only for boxed layout type."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:250
+#: ../twentyeleven/inc/theme-options.php:55
+#: ../twentyeleven/inc/theme-options.php:474
+msgid "Color Scheme"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:251
+msgid "Select a color for global color scheme."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:258
+msgid "Custom CSS"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:259
+msgid "The quick and save way to add your custom CSS code."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:268
+#: ../robust/functions/theme-options.php:273
+msgid "Top Header"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:274
+msgid "Enable/disable the top header bar."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:281
+#: ../robust/functions/theme-options.php:319
+#: ../robust/functions/theme-options.php:343
+#: ../robust/functions/theme-options.php:427
+#: ../robust/functions/theme-options.php:481
+msgid "Background"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:282
+msgid "Select a color for the top header background."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:289
+#: ../robust/functions/theme-options.php:435
+#: ../robust/functions/theme-options.php:489
+msgid "Top Border Color"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:290
+msgid "Select a color for top border."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:297
+msgid "Bottom Border Color"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:298
+msgid "Select a color for bottom border."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:305
+#: ../robust/functions/theme-options.php:497
+msgid "Text Color"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:306
+msgid "Select a color for the top header bar text."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:314
+msgid "Header"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:320
+msgid "Customize your header background."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:327
+msgid "Header Type"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:328
+msgid "Select the preferred header type"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:344
+msgid "Change the page title background."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:357
+#: ../robust/functions/shortcodes/divider.php:30
+#: ../robust/functions/shortcodes/divider.php:73
+msgid "Border Color"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:358
+msgid "Select a color for the page title border."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:365
+msgid "Heading Color"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:366
+msgid "Select a color for the page title heading."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:373
+msgid "Description Color"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:374
+msgid "Select a color for the page title description."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:382
+msgid "Search Form"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:383
+msgid "Enable/disable the search form in page title bar."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:391 ../twentytwelve/header.php:43
+msgid "Menu"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:397
+#: ../robust/functions/theme-options.php:413
+msgid "Menu Item Link Color"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:398
+msgid "Select a color for the menu item link."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:405
+msgid "Menu Item Description Color"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:406
+msgid "Select a color for the menu item description."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:414
+msgid "Select a color for the menu item link indicator (hover & active)."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:422
+msgid "Footer Widgets Area"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:428
+msgid "Change your footer widgets area background."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:436
+msgid "Select a color for the footer widgets area top border."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:443
+msgid "Widget Title Color"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:444
+msgid "Select a color for the footer widget title."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:451
+msgid "Widget Text Color"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:452
+msgid "Select a color for the footer widget text."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:459
+msgid "Widget Link Color"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:460
+msgid "Select a color for the footer widget link text."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:467
+msgid "Widget Link Hover Color"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:468
+msgid "Select a color for the footer widget link text hover."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:476
+msgid "Footer Bottom"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:482
+msgid "Change your footer bottom area background."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:490
+msgid "Select a color for the footer bottom area top border."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:498
+msgid "Select a color for the footer bottom area text."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:505
+#: ../twentyeleven/inc/theme-options.php:61
+#: ../twentyeleven/inc/theme-options.php:491
+msgid "Link Color"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:506
+msgid "Select a color for the footer bottom area link text."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:513
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:514
+msgid "Select a color for the footer bottom area link text hover."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:525
+msgid "Typography"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:531
+msgid "Body Font"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:532
+msgid "The global text style."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:540
+msgid "Heading Font"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:541
+msgid "The heading tags (h1 - h6) text styles."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:550
+msgid "Primary menu text style."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:559
+msgid "Footer menu text style."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:571
+#: ../robust/includes/page-title.php:11 ../robust/includes/page-title.php:51
+msgid "Blog"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:577
+msgid "Read More Label"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:578
+msgid "Enter the readmore button text label."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:580
+msgid "Read more &rarr;"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:585
+msgid "Author Info"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:586
+msgid "Enable/disable the author info."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:593
+msgid "Author Info Heading Text"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:594
+msgid "Enter the author information box heading text."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:596
+msgid "About the Author"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:605
+#: ../robust/functions/theme-post-type.php:9
+#: ../robust/functions/shortcodes/portfolio.php:47
+msgid "Portfolio"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:612
+msgid "Items Overview"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:618
+msgid "Portfolio Filter"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:619
+msgid "Enable/disable the portfolio filter."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:626
+msgid "Portfolio Slug"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:627
+msgid "Please save the permalink settings after changing this option."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:634
+msgid "Items Per Page"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:635
+msgid "Enter the number of items you want to show on portfolio page overview."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:643
+msgid "Single Item"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:648
+msgid "Portfolio Description Heading"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:649
+msgid "Enter the portfolio description heading text."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:651
+msgid "Project Description"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:656
+msgid "Portfolio Details Heading"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:657
+msgid "Enter the portfolio details heading text."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:659
+msgid "Project Details"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:665
+msgid "Related Items"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:670
+msgid "Related Portfolio"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:671
+msgid ""
+"Enable/disable the related portfolio section on the single portfolio page."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:678
+msgid "Related Portfolio Heading"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:679
+msgid "Enter the related portfolio heading text."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:681
+msgid "Related Projects"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:686
+msgid "Related Portfolio Post Number"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:687
+msgid "The number of portfolio item to show."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:694
+msgid "Related Portfolio Column"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:695
+msgid "Select the portfolio item column."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:707
+msgid "Sidebars"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:714
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:724
+msgid "Social Profiles"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:730
+#: ../robust/functions/shortcodes/social.php:17
+msgid "Facebook"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:731
+msgid "Paste your facebook profile url."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:738
+#: ../robust/functions/shortcodes/social.php:23
+msgid "Twitter"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:739
+msgid "Paste your twitter profile url."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:746
+#: ../robust/functions/shortcodes/social.php:29
+msgid "Google+"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:747
+msgid "Paste your google+ profile url."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:754
+#: ../robust/functions/shortcodes/social.php:35
+msgid "Linkedin"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:755
+msgid "Paste your linkedin profile url."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:762
+#: ../robust/functions/shortcodes/social.php:41
+msgid "Github"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:763
+msgid "Paste your github profile url."
+msgstr ""
+
+#: ../robust/functions/theme-options.php:770
+#: ../robust/functions/shortcodes/social.php:47
+msgid "Pinterest"
+msgstr ""
+
+#: ../robust/functions/theme-options.php:771
+msgid "Paste your pinterest profile url."
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:8
+msgid "Portfolio Items"
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:10
+msgid "All Portfolio Items"
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:12
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:13
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:14
+msgid "View Portfolio"
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:15
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:16
+msgid "No Portfolio Items Found"
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:17
+msgid "No Portfolio Items Found In Trash"
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:37
+#: ../robust/functions/theme-post-type.php:48
+#: ../robust/functions/theme-post-type.php:72
+msgid "portfolio"
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:50
+#, php-format
+msgid "Portfolio Updated. <a href=\"%s\">View portfolio</a>"
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:51
+msgid "Custom Field Updated."
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:52
+msgid "Custom Field Deleted."
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:53
+msgid "Portfolio Updated."
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:54
+#, php-format
+msgid "Portfolio Restored To Revision From %s"
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:55
+#, php-format
+msgid "Portfolio Published. <a href=\"%s\">View Portfolio</a>"
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:56
+msgid "Portfolio Saved."
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:57
+#, php-format
+msgid ""
+"Portfolio Submitted. <a target=\"_blank\" href=\"%s\">Preview Portfolio</a>"
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:58
+#, php-format
+msgid ""
+"Portfolio Scheduled For: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Portfolio</a>"
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:58
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:59
+#, php-format
+msgid ""
+"Portfolio Draft Updated. <a target=\"_blank\" href=\"%s\">Preview Portfolio</"
+"a>"
+msgstr ""
+
+#: ../robust/functions/theme-post-type.php:71
+msgid "portfolio_category"
+msgstr ""
+
+#: ../robust/functions/theme-shortcodes.php:12
+msgid "Select a category:"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:164
+#: ../robust/functions/plugins/plugins.php:96
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:165
+#: ../robust/functions/plugins/plugins.php:97
+msgid "Install Plugins"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:166
+#: ../robust/functions/plugins/plugins.php:98
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:178
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:490
+#: ../robust/functions/plugins/plugins.php:110
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:179
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1846
+#: ../robust/functions/plugins/plugins.php:111
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:517
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1300
+#: ../twentyeleven/content-status.php:16
+msgid "Status"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1956
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1956
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../robust/functions/plugins/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../robust/functions/plugins/plugins.php:99
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../robust/functions/plugins/plugins.php:112
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../robust/functions/shortcodes/accordion.php:17
+#: ../robust/functions/shortcodes/accordion.php:59
+#: ../robust/functions/shortcodes/client-box.php:17
+#: ../robust/functions/shortcodes/client-box.php:65
+#: ../robust/functions/shortcodes/entries.php:66
+#: ../robust/functions/shortcodes/portfolio.php:51
+#: ../robust/functions/shortcodes/tabs.php:17
+#: ../robust/functions/shortcodes/tabs.php:59
+#: ../robust/functions/shortcodes/teaser.php:17
+#: ../robust/functions/shortcodes/teaser.php:95
+#: ../robust/functions/shortcodes/testimonial.php:71
+msgid "Heading"
+msgstr ""
+
+#: ../robust/functions/shortcodes/accordion.php:18
+#: ../robust/functions/shortcodes/accordion.php:60
+#: ../robust/functions/shortcodes/client-box.php:18
+#: ../robust/functions/shortcodes/client-box.php:66
+#: ../robust/functions/shortcodes/tabs.php:18
+#: ../robust/functions/shortcodes/tabs.php:60
+#: ../robust/functions/shortcodes/teaser.php:18
+msgid "Enter the heading text"
+msgstr ""
+
+#: ../robust/functions/shortcodes/accordion.php:26
+msgid "Pane Title"
+msgstr ""
+
+#: ../robust/functions/shortcodes/accordion.php:27
+#: ../robust/functions/shortcodes/accordion.php:70
+msgid "Enter the pane title."
+msgstr ""
+
+#: ../robust/functions/shortcodes/accordion.php:32
+msgid "Pane Icon"
+msgstr ""
+
+#: ../robust/functions/shortcodes/accordion.php:33
+#: ../robust/functions/shortcodes/accordion.php:78
+#: ../robust/functions/shortcodes/button.php:55
+#: ../robust/functions/shortcodes/callout.php:56
+#: ../robust/functions/shortcodes/callout.php:123
+#: ../robust/functions/shortcodes/tabs.php:33
+#: ../robust/functions/shortcodes/tabs.php:78
+#: ../robust/functions/shortcodes/teaser.php:63
+#: ../robust/functions/shortcodes/teaser.php:134
+msgid "Select an icon."
+msgstr ""
+
+#: ../robust/functions/shortcodes/accordion.php:39
+msgid "Pane Content"
+msgstr ""
+
+#: ../robust/functions/shortcodes/accordion.php:40
+#: ../robust/functions/shortcodes/accordion.php:87
+msgid "Enter the content here."
+msgstr ""
+
+#: ../robust/functions/shortcodes/accordion.php:46
+msgid "Add More Pane"
+msgstr ""
+
+#: ../robust/functions/shortcodes/accordion.php:49
+msgid "Insert Accordion Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/accordion.php:55
+msgid "Accordion"
+msgstr ""
+
+#: ../robust/functions/shortcodes/accordion.php:69
+#: ../robust/functions/shortcodes/callout.php:17
+#: ../robust/functions/shortcodes/callout.php:79
+#: ../robust/functions/shortcodes/intro.php:17
+#: ../robust/functions/shortcodes/intro.php:51
+#: ../robust/functions/shortcodes/tabs.php:69
+#: ../robust/functions/shortcodes/teaser.php:50
+#: ../robust/functions/shortcodes/teaser.php:142
+msgid "Title"
+msgstr ""
+
+#: ../robust/functions/shortcodes/accordion.php:77
+#: ../robust/functions/shortcodes/button.php:54
+#: ../robust/functions/shortcodes/icon.php:16
+#: ../robust/functions/shortcodes/list-icon.php:19
+#: ../robust/functions/shortcodes/tabs.php:32
+#: ../robust/functions/shortcodes/tabs.php:77
+#: ../robust/functions/shortcodes/teaser.php:62
+#: ../robust/functions/shortcodes/teaser.php:133
+msgid "Icon"
+msgstr ""
+
+#: ../robust/functions/shortcodes/accordion.php:86
+#: ../robust/functions/shortcodes/content-box.php:30
+#: ../robust/functions/shortcodes/content-box.php:62
+#: ../robust/functions/shortcodes/intro.php:34
+#: ../robust/functions/shortcodes/intro.php:71
+#: ../robust/functions/shortcodes/tabs.php:86
+#: ../robust/functions/shortcodes/teaser.php:163
+msgid "Content"
+msgstr ""
+
+#: ../robust/functions/shortcodes/alert.php:17
+msgid "Color Style"
+msgstr ""
+
+#: ../robust/functions/shortcodes/alert.php:18
+#: ../robust/functions/shortcodes/divider.php:18
+#: ../robust/functions/shortcodes/divider.php:60
+#: ../robust/functions/shortcodes/dropcap.php:24
+#: ../robust/functions/shortcodes/teaser.php:24
+#: ../robust/functions/shortcodes/teaser.php:104
+msgid "Select the style."
+msgstr ""
+
+#: ../robust/functions/shortcodes/alert.php:21
+#: ../robust/functions/shortcodes/content-box.php:21
+#: ../robust/functions/shortcodes/content-box.php:51
+#: ../robust/functions/shortcodes/teaser.php:27
+#: ../robust/functions/shortcodes/teaser.php:107
+msgid "Default"
+msgstr ""
+
+#: ../robust/functions/shortcodes/alert.php:22
+#: ../robust/functions/shortcodes/content-box.php:22
+#: ../robust/functions/shortcodes/content-box.php:52
+msgid "Blue"
+msgstr ""
+
+#: ../robust/functions/shortcodes/alert.php:23
+#: ../robust/functions/shortcodes/content-box.php:23
+#: ../robust/functions/shortcodes/content-box.php:53
+msgid "Green"
+msgstr ""
+
+#: ../robust/functions/shortcodes/alert.php:24
+#: ../robust/functions/shortcodes/content-box.php:24
+#: ../robust/functions/shortcodes/content-box.php:54
+msgid "Red"
+msgstr ""
+
+#: ../robust/functions/shortcodes/alert.php:25
+#: ../robust/functions/shortcodes/content-box.php:25
+#: ../robust/functions/shortcodes/content-box.php:55
+msgid "Yellow"
+msgstr ""
+
+#: ../robust/functions/shortcodes/alert.php:30
+msgid "Message"
+msgstr ""
+
+#: ../robust/functions/shortcodes/alert.php:31
+msgid "Your message here."
+msgstr ""
+
+#: ../robust/functions/shortcodes/alert.php:37
+msgid "Insert Alert Message Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/button.php:17
+msgid "Label"
+msgstr ""
+
+#: ../robust/functions/shortcodes/button.php:18
+#: ../robust/functions/shortcodes/callout.php:50
+#: ../robust/functions/shortcodes/callout.php:116
+#: ../robust/functions/shortcodes/pricing.php:57
+#: ../robust/functions/shortcodes/pricing.php:137
+msgid "Enter the button text label."
+msgstr ""
+
+#: ../robust/functions/shortcodes/button.php:23
+msgid "Button Size"
+msgstr ""
+
+#: ../robust/functions/shortcodes/button.php:24
+msgid "Select the button size."
+msgstr ""
+
+#: ../robust/functions/shortcodes/button.php:34
+#: ../robust/functions/shortcodes/callout.php:29
+#: ../robust/functions/shortcodes/callout.php:93
+msgid "Button Color"
+msgstr ""
+
+#: ../robust/functions/shortcodes/button.php:35
+#: ../robust/functions/shortcodes/callout.php:30
+#: ../robust/functions/shortcodes/callout.php:94
+msgid "Select the button color."
+msgstr ""
+
+#: ../robust/functions/shortcodes/button.php:62
+msgid "Enter the destination URL."
+msgstr ""
+
+#: ../robust/functions/shortcodes/button.php:68
+msgid "Check to open the link in the new tab."
+msgstr ""
+
+#: ../robust/functions/shortcodes/button.php:75
+msgid "Insert Button Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/callout.php:18
+#: ../robust/functions/shortcodes/callout.php:80
+#: ../robust/functions/shortcodes/entries.php:18
+#: ../robust/functions/shortcodes/entries.php:67
+#: ../robust/functions/shortcodes/heading.php:18
+#: ../robust/functions/shortcodes/intro.php:18
+#: ../robust/functions/shortcodes/intro.php:52
+#: ../robust/functions/shortcodes/portfolio.php:18
+#: ../robust/functions/shortcodes/portfolio.php:52
+#: ../robust/functions/shortcodes/teaser.php:96
+#: ../robust/functions/shortcodes/teaser.php:143
+#: ../robust/functions/shortcodes/testimonial.php:18
+#: ../robust/functions/shortcodes/testimonial.php:72
+msgid "Enter the heading text."
+msgstr ""
+
+#: ../robust/functions/shortcodes/callout.php:23
+#: ../robust/functions/shortcodes/callout.php:86
+#: ../robust/functions/shortcodes/teaser.php:56
+#: ../robust/functions/shortcodes/teaser.php:149
+msgid "Sub Title"
+msgstr ""
+
+#: ../robust/functions/shortcodes/callout.php:24
+#: ../robust/functions/shortcodes/callout.php:87
+#: ../robust/functions/shortcodes/teaser.php:57
+#: ../robust/functions/shortcodes/teaser.php:150
+msgid "Enter the sub title."
+msgstr ""
+
+#: ../robust/functions/shortcodes/callout.php:49
+#: ../robust/functions/shortcodes/callout.php:115
+msgid "Button Text Label"
+msgstr ""
+
+#: ../robust/functions/shortcodes/callout.php:55
+#: ../robust/functions/shortcodes/callout.php:122
+msgid "Button Icon"
+msgstr ""
+
+#: ../robust/functions/shortcodes/callout.php:62
+#: ../robust/functions/shortcodes/callout.php:131
+#: ../robust/functions/shortcodes/teaser.php:69
+#: ../robust/functions/shortcodes/teaser.php:156
+#: ../twentyeleven/content-link.php:17 ../twentytwelve/content-link.php:12
+msgid "Link"
+msgstr ""
+
+#: ../robust/functions/shortcodes/callout.php:63
+#: ../robust/functions/shortcodes/callout.php:132
+#: ../robust/functions/shortcodes/pricing.php:63
+#: ../robust/functions/shortcodes/pricing.php:145
+msgid "Enter the button link destination URL."
+msgstr ""
+
+#: ../robust/functions/shortcodes/callout.php:69
+msgid "Insert Call Out Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/callout.php:75
+msgid "Call Out"
+msgstr ""
+
+#: ../robust/functions/shortcodes/client-box.php:23
+#: ../robust/functions/shortcodes/client-box.php:73
+#: ../robust/functions/shortcodes/column.php:53
+#: ../robust/functions/shortcodes/entries.php:23
+#: ../robust/functions/shortcodes/entries.php:74
+#: ../robust/functions/shortcodes/portfolio.php:23
+#: ../robust/functions/shortcodes/portfolio.php:59
+#: ../robust/functions/shortcodes/pricing.php:17
+#: ../robust/functions/shortcodes/pricing.php:88
+#: ../robust/functions/shortcodes/teaser.php:34
+#: ../robust/functions/shortcodes/teaser.php:116
+#: ../robust/functions/shortcodes/testimonial.php:23
+#: ../robust/functions/shortcodes/testimonial.php:79
+msgid "Column"
+msgstr ""
+
+#: ../robust/functions/shortcodes/client-box.php:24
+#: ../robust/functions/shortcodes/client-box.php:74
+#: ../robust/functions/shortcodes/entries.php:24
+#: ../robust/functions/shortcodes/entries.php:75
+#: ../robust/functions/shortcodes/portfolio.php:24
+#: ../robust/functions/shortcodes/portfolio.php:60
+#: ../robust/functions/shortcodes/teaser.php:35
+#: ../robust/functions/shortcodes/testimonial.php:24
+#: ../robust/functions/shortcodes/testimonial.php:80
+msgid "Select the number of column."
+msgstr ""
+
+#: ../robust/functions/shortcodes/client-box.php:27
+#: ../robust/functions/shortcodes/client-box.php:77
+#: ../robust/functions/shortcodes/entries.php:27
+#: ../robust/functions/shortcodes/entries.php:78
+#: ../robust/functions/shortcodes/teaser.php:38
+#: ../robust/functions/shortcodes/teaser.php:120
+#: ../robust/functions/shortcodes/testimonial.php:27
+#: ../robust/functions/shortcodes/testimonial.php:83
+msgid "1 Column"
+msgstr ""
+
+#: ../robust/functions/shortcodes/client-box.php:28
+#: ../robust/functions/shortcodes/client-box.php:78
+#: ../robust/functions/shortcodes/entries.php:28
+#: ../robust/functions/shortcodes/entries.php:79
+#: ../robust/functions/shortcodes/portfolio.php:27
+#: ../robust/functions/shortcodes/portfolio.php:63
+#: ../robust/functions/shortcodes/pricing.php:21
+#: ../robust/functions/shortcodes/pricing.php:92
+#: ../robust/functions/shortcodes/teaser.php:39
+#: ../robust/functions/shortcodes/teaser.php:121
+#: ../robust/functions/shortcodes/testimonial.php:28
+#: ../robust/functions/shortcodes/testimonial.php:84
+msgid "2 Columns"
+msgstr ""
+
+#: ../robust/functions/shortcodes/client-box.php:29
+#: ../robust/functions/shortcodes/client-box.php:79
+#: ../robust/functions/shortcodes/entries.php:29
+#: ../robust/functions/shortcodes/entries.php:80
+#: ../robust/functions/shortcodes/portfolio.php:28
+#: ../robust/functions/shortcodes/portfolio.php:64
+#: ../robust/functions/shortcodes/pricing.php:22
+#: ../robust/functions/shortcodes/pricing.php:93
+#: ../robust/functions/shortcodes/teaser.php:40
+#: ../robust/functions/shortcodes/teaser.php:122
+#: ../robust/functions/shortcodes/testimonial.php:29
+#: ../robust/functions/shortcodes/testimonial.php:85
+msgid "3 Columns"
+msgstr ""
+
+#: ../robust/functions/shortcodes/client-box.php:30
+#: ../robust/functions/shortcodes/client-box.php:80
+#: ../robust/functions/shortcodes/entries.php:30
+#: ../robust/functions/shortcodes/entries.php:81
+#: ../robust/functions/shortcodes/portfolio.php:29
+#: ../robust/functions/shortcodes/portfolio.php:65
+#: ../robust/functions/shortcodes/pricing.php:23
+#: ../robust/functions/shortcodes/pricing.php:94
+#: ../robust/functions/shortcodes/teaser.php:41
+#: ../robust/functions/shortcodes/teaser.php:123
+#: ../robust/functions/shortcodes/testimonial.php:30
+#: ../robust/functions/shortcodes/testimonial.php:86
+msgid "4 Columns"
+msgstr ""
+
+#: ../robust/functions/shortcodes/client-box.php:31
+#: ../robust/functions/shortcodes/client-box.php:81
+#: ../robust/functions/shortcodes/entries.php:31
+#: ../robust/functions/shortcodes/entries.php:82
+#: ../robust/functions/shortcodes/pricing.php:24
+#: ../robust/functions/shortcodes/pricing.php:95
+#: ../robust/functions/shortcodes/teaser.php:42
+#: ../robust/functions/shortcodes/teaser.php:124
+#: ../robust/functions/shortcodes/testimonial.php:31
+#: ../robust/functions/shortcodes/testimonial.php:87
+msgid "5 Columns"
+msgstr ""
+
+#: ../robust/functions/shortcodes/client-box.php:39
+#: ../robust/functions/shortcodes/client-box.php:90
+msgid "Client URL"
+msgstr ""
+
+#: ../robust/functions/shortcodes/client-box.php:40
+#: ../robust/functions/shortcodes/client-box.php:91
+msgid "Enter the client URL."
+msgstr ""
+
+#: ../robust/functions/shortcodes/client-box.php:45
+#: ../robust/functions/shortcodes/client-box.php:98
+msgid "Logo Image URL"
+msgstr ""
+
+#: ../robust/functions/shortcodes/client-box.php:46
+#: ../robust/functions/shortcodes/client-box.php:99
+msgid "Paste the logo image URL."
+msgstr ""
+
+#: ../robust/functions/shortcodes/client-box.php:52
+msgid "Add More Client"
+msgstr ""
+
+#: ../robust/functions/shortcodes/client-box.php:55
+msgid "Insert Client Box Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/client-box.php:61
+msgid "Client Box"
+msgstr ""
+
+#: ../robust/functions/shortcodes/column.php:17
+msgid "Gutter Width"
+msgstr ""
+
+#: ../robust/functions/shortcodes/column.php:18
+msgid "A space between the columns."
+msgstr ""
+
+#: ../robust/functions/shortcodes/column.php:27
+msgid "Column Set"
+msgstr ""
+
+#: ../robust/functions/shortcodes/column.php:28
+msgid "Select the set."
+msgstr ""
+
+#: ../robust/functions/shortcodes/column.php:47
+msgid "Insert Column Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/column.php:57
+msgid "Column Content"
+msgstr ""
+
+#: ../robust/functions/shortcodes/column.php:58
+msgid "Enter the column content"
+msgstr ""
+
+#: ../robust/functions/shortcodes/content-box.php:17
+#: ../robust/functions/shortcodes/content-box.php:47
+msgid "Box Color"
+msgstr ""
+
+#: ../robust/functions/shortcodes/content-box.php:18
+#: ../robust/functions/shortcodes/content-box.php:48
+msgid "Select the color."
+msgstr ""
+
+#: ../robust/functions/shortcodes/content-box.php:31
+#: ../robust/functions/shortcodes/teaser.php:76
+#: ../robust/functions/shortcodes/teaser.php:164
+msgid "Enter the content."
+msgstr ""
+
+#: ../robust/functions/shortcodes/content-box.php:37
+msgid "Insert Content Box Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/content-box.php:43
+msgid "Content Box"
+msgstr ""
+
+#: ../robust/functions/shortcodes/content-box.php:63
+#: ../robust/functions/shortcodes/intro.php:35
+#: ../robust/functions/shortcodes/intro.php:72
+msgid "Enter the content"
+msgstr ""
+
+#: ../robust/functions/shortcodes/divider.php:17
+#: ../robust/functions/shortcodes/divider.php:59
+msgid "Border Style"
+msgstr ""
+
+#: ../robust/functions/shortcodes/divider.php:21
+#: ../robust/functions/shortcodes/divider.php:62
+msgid "No Border"
+msgstr ""
+
+#: ../robust/functions/shortcodes/divider.php:22
+#: ../robust/functions/shortcodes/divider.php:63
+msgid "Dashed"
+msgstr ""
+
+#: ../robust/functions/shortcodes/divider.php:23
+#: ../robust/functions/shortcodes/divider.php:64
+msgid "Dotted"
+msgstr ""
+
+#: ../robust/functions/shortcodes/divider.php:24
+#: ../robust/functions/shortcodes/divider.php:65
+msgid "Double"
+msgstr ""
+
+#: ../robust/functions/shortcodes/divider.php:25
+#: ../robust/functions/shortcodes/divider.php:66
+msgid "Solid"
+msgstr ""
+
+#: ../robust/functions/shortcodes/divider.php:31
+#: ../robust/functions/shortcodes/divider.php:74
+msgid "Enter a hex color code."
+msgstr ""
+
+#: ../robust/functions/shortcodes/divider.php:36
+msgid "Top Margin"
+msgstr ""
+
+#: ../robust/functions/shortcodes/divider.php:37
+#: ../robust/functions/shortcodes/divider.php:82
+msgid "Enter the top margin value."
+msgstr ""
+
+#: ../robust/functions/shortcodes/divider.php:42
+msgid "Bottom Margin"
+msgstr ""
+
+#: ../robust/functions/shortcodes/divider.php:43
+#: ../robust/functions/shortcodes/divider.php:90
+msgid "Enter the bottom margin value."
+msgstr ""
+
+#: ../robust/functions/shortcodes/divider.php:49
+msgid "Insert Divider Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/divider.php:55
+msgid "Divider"
+msgstr ""
+
+#: ../robust/functions/shortcodes/divider.php:81
+msgid "Margin Top"
+msgstr ""
+
+#: ../robust/functions/shortcodes/divider.php:89
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../robust/functions/shortcodes/dropcap.php:17
+msgid "Letter"
+msgstr ""
+
+#: ../robust/functions/shortcodes/dropcap.php:18
+msgid "Enter the dropcap letter."
+msgstr ""
+
+#: ../robust/functions/shortcodes/dropcap.php:23
+#: ../robust/functions/shortcodes/icon.php:36
+#: ../robust/functions/shortcodes/teaser.php:23
+#: ../robust/functions/shortcodes/teaser.php:103
+msgid "Style"
+msgstr ""
+
+#: ../robust/functions/shortcodes/dropcap.php:28
+msgid "Rounded"
+msgstr ""
+
+#: ../robust/functions/shortcodes/dropcap.php:29
+msgid "Square"
+msgstr ""
+
+#: ../robust/functions/shortcodes/dropcap.php:35
+msgid "Insert Dropcap Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/entries.php:17
+#: ../robust/functions/shortcodes/heading.php:17
+#: ../robust/functions/shortcodes/portfolio.php:17
+#: ../robust/functions/shortcodes/testimonial.php:17
+msgid "Heading Text"
+msgstr ""
+
+#: ../robust/functions/shortcodes/entries.php:36
+#: ../robust/functions/shortcodes/entries.php:89
+#: ../robust/functions/shortcodes/portfolio.php:34
+#: ../robust/functions/shortcodes/portfolio.php:72
+msgid "Post Number"
+msgstr ""
+
+#: ../robust/functions/shortcodes/entries.php:37
+#: ../robust/functions/shortcodes/entries.php:90
+#: ../robust/functions/shortcodes/portfolio.php:35
+#: ../robust/functions/shortcodes/portfolio.php:73
+msgid "Enter the number of post to show."
+msgstr ""
+
+#: ../robust/functions/shortcodes/entries.php:42
+#: ../robust/functions/shortcodes/entries.php:97
+msgid "Category"
+msgstr ""
+
+#: ../robust/functions/shortcodes/entries.php:43
+#: ../robust/functions/shortcodes/entries.php:98
+msgid "Optional you can sort by a category."
+msgstr ""
+
+#: ../robust/functions/shortcodes/entries.php:49
+#: ../robust/functions/shortcodes/entries.php:106
+msgid "Excerpt Lenght"
+msgstr ""
+
+#: ../robust/functions/shortcodes/entries.php:50
+#: ../robust/functions/shortcodes/entries.php:107
+msgid "The post excerpt word lenght."
+msgstr ""
+
+#: ../robust/functions/shortcodes/entries.php:56
+msgid "Insert Entries Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/entries.php:62
+msgid "Entries"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:17
+msgid "Map Type"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:18
+msgid "Select a map type"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:24
+msgid "Map Width"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:30
+msgid "Map Height"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:36
+msgid "Address"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:37
+msgid ""
+"Enter your address here. ex: \"New York\" or \"New York, USA\" If you want a "
+"accurate position please fill the Latitude and Longitude fields"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:42
+msgid "Latitude"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:43
+msgid "Latitude is specified in degrees within the range [-90, 90]"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:48
+msgid "Longitude"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:49
+msgid "Longitude is specified in degrees within the range [-180, 180]"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:54
+msgid "Zoom"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:55
+msgid "Set the zoom level, numeric value from 1 to 19"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:60
+msgid "Pan Control"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:61
+msgid "Enable pan control?"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:67
+msgid "Zoom Control"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:68
+msgid "Enable zoom control?"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:74
+msgid "Map Type Control"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:75
+msgid "Enable map type control?"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:81
+msgid "Popup Content"
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:82
+msgid "A descriptive text for the Google Map marker popup, ex: \"My Office\""
+msgstr ""
+
+#: ../robust/functions/shortcodes/gmap.php:88
+msgid "Insert Google Map Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/heading.php:24
+msgid "Insert Heading Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/icon.php:17
+#: ../robust/functions/shortcodes/list-icon.php:20
+msgid "Select the icon."
+msgstr ""
+
+#: ../robust/functions/shortcodes/icon.php:23
+msgid "Size"
+msgstr ""
+
+#: ../robust/functions/shortcodes/icon.php:24
+msgid "Select the icon size."
+msgstr ""
+
+#: ../robust/functions/shortcodes/icon.php:27
+msgid "Normal Size"
+msgstr ""
+
+#: ../robust/functions/shortcodes/icon.php:28
+msgid "Large Size"
+msgstr ""
+
+#: ../robust/functions/shortcodes/icon.php:29
+msgid "2x Size"
+msgstr ""
+
+#: ../robust/functions/shortcodes/icon.php:30
+msgid "3x Size"
+msgstr ""
+
+#: ../robust/functions/shortcodes/icon.php:31
+msgid "4x Size"
+msgstr ""
+
+#: ../robust/functions/shortcodes/icon.php:37
+msgid "Select the icon style."
+msgstr ""
+
+#: ../robust/functions/shortcodes/icon.php:41
+msgid "Muted"
+msgstr ""
+
+#: ../robust/functions/shortcodes/icon.php:42
+msgid "Border"
+msgstr ""
+
+#: ../robust/functions/shortcodes/icon.php:43
+msgid "Spin"
+msgstr ""
+
+#: ../robust/functions/shortcodes/icon.php:49
+msgid "Insert Icon Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/intro.php:23
+#: ../robust/functions/shortcodes/intro.php:58
+msgid "Text Alignment"
+msgstr ""
+
+#: ../robust/functions/shortcodes/intro.php:24
+msgid "Enter text alignment."
+msgstr ""
+
+#: ../robust/functions/shortcodes/intro.php:27
+#: ../robust/functions/shortcodes/intro.php:62
+msgid "Align Center"
+msgstr ""
+
+#: ../robust/functions/shortcodes/intro.php:28
+#: ../robust/functions/shortcodes/intro.php:63
+msgid "Align Left"
+msgstr ""
+
+#: ../robust/functions/shortcodes/intro.php:29
+#: ../robust/functions/shortcodes/intro.php:64
+msgid "Align Right"
+msgstr ""
+
+#: ../robust/functions/shortcodes/intro.php:41
+msgid "Insert Intro Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/intro.php:47
+msgid "Intro"
+msgstr ""
+
+#: ../robust/functions/shortcodes/intro.php:59
+msgid "The text alignment"
+msgstr ""
+
+#: ../robust/functions/shortcodes/leadp.php:17
+msgid "Alignment"
+msgstr ""
+
+#: ../robust/functions/shortcodes/leadp.php:18
+msgid "Add the pharagraph alignment"
+msgstr ""
+
+#: ../robust/functions/shortcodes/leadp.php:28
+msgid "Paragraph Text"
+msgstr ""
+
+#: ../robust/functions/shortcodes/leadp.php:29
+msgid "Add the pharagraph text"
+msgstr ""
+
+#: ../robust/functions/shortcodes/leadp.php:35
+msgid "Insert Lead Paragraph Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/list-icon.php:26
+msgid "List Content"
+msgstr ""
+
+#: ../robust/functions/shortcodes/list-icon.php:27
+#: ../robust/functions/shortcodes/pricing.php:69
+#: ../robust/functions/shortcodes/pricing.php:153
+#: ../robust/functions/shortcodes/tabs.php:40
+#: ../robust/functions/shortcodes/testimonial.php:52
+#: ../robust/functions/shortcodes/testimonial.php:113
+msgid "Put the content here."
+msgstr ""
+
+#: ../robust/functions/shortcodes/list-icon.php:33
+msgid "Add More List"
+msgstr ""
+
+#: ../robust/functions/shortcodes/list-icon.php:36
+msgid "Insert List Icons Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/portfolio.php:41
+msgid "Insert Portfolio Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/portfolio.php:120
+#: ../robust/includes/content-portfolio.php:6
+msgid "View Project"
+msgstr ""
+
+#: ../robust/functions/shortcodes/pricing.php:18
+#: ../robust/functions/shortcodes/pricing.php:89
+#: ../robust/functions/shortcodes/teaser.php:117
+msgid "Select the column."
+msgstr ""
+
+#: ../robust/functions/shortcodes/pricing.php:32
+#: ../robust/functions/shortcodes/pricing.php:104
+msgid "Featured Plan"
+msgstr ""
+
+#: ../robust/functions/shortcodes/pricing.php:33
+#: ../robust/functions/shortcodes/pricing.php:105
+msgid "Check to set this plan as featured"
+msgstr ""
+
+#: ../robust/functions/shortcodes/pricing.php:38
+#: ../robust/functions/shortcodes/pricing.php:112
+msgid "Plan Title"
+msgstr ""
+
+#: ../robust/functions/shortcodes/pricing.php:39
+#: ../robust/functions/shortcodes/pricing.php:113
+msgid "Enter the plan title."
+msgstr ""
+
+#: ../robust/functions/shortcodes/pricing.php:44
+#: ../robust/functions/shortcodes/pricing.php:120
+msgid "Plan Price"
+msgstr ""
+
+#: ../robust/functions/shortcodes/pricing.php:45
+#: ../robust/functions/shortcodes/pricing.php:121
+msgid "Enter the plan price."
+msgstr ""
+
+#: ../robust/functions/shortcodes/pricing.php:50
+#: ../robust/functions/shortcodes/pricing.php:128
+msgid "Plan Term"
+msgstr ""
+
+#: ../robust/functions/shortcodes/pricing.php:51
+#: ../robust/functions/shortcodes/pricing.php:129
+msgid "Enter the plan term. e.g : \"per month\", \"per year\" etc."
+msgstr ""
+
+#: ../robust/functions/shortcodes/pricing.php:56
+#: ../robust/functions/shortcodes/pricing.php:136
+msgid "Plan Button Text"
+msgstr ""
+
+#: ../robust/functions/shortcodes/pricing.php:62
+#: ../robust/functions/shortcodes/pricing.php:144
+msgid "Plan Button Link"
+msgstr ""
+
+#: ../robust/functions/shortcodes/pricing.php:68
+#: ../robust/functions/shortcodes/pricing.php:152
+msgid "Plan Content"
+msgstr ""
+
+#: ../robust/functions/shortcodes/pricing.php:75
+#: ../robust/functions/shortcodes/testimonial.php:58
+msgid "Add More Testimony"
+msgstr ""
+
+#: ../robust/functions/shortcodes/pricing.php:78
+msgid "Insert Pricing Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/pricing.php:84
+msgid "Pricing Table"
+msgstr ""
+
+#: ../robust/functions/shortcodes/profile.php:17
+#: ../robust/functions/shortcodes/profile.php:52
+msgid "Profile Name"
+msgstr ""
+
+#: ../robust/functions/shortcodes/profile.php:18
+#: ../robust/functions/shortcodes/profile.php:53
+msgid "Enter the name."
+msgstr ""
+
+#: ../robust/functions/shortcodes/profile.php:23
+#: ../robust/functions/shortcodes/profile.php:60
+msgid "Profile Meta"
+msgstr ""
+
+#: ../robust/functions/shortcodes/profile.php:24
+#: ../robust/functions/shortcodes/profile.php:61
+msgid "Enter the profile meta. e.g job position etc."
+msgstr ""
+
+#: ../robust/functions/shortcodes/profile.php:29
+#: ../robust/functions/shortcodes/profile.php:68
+msgid "Profile Image"
+msgstr ""
+
+#: ../robust/functions/shortcodes/profile.php:30
+#: ../robust/functions/shortcodes/profile.php:69
+msgid "Paste your profile image URL here."
+msgstr ""
+
+#: ../robust/functions/shortcodes/profile.php:35
+#: ../robust/functions/shortcodes/profile.php:76
+msgid "Profile Description"
+msgstr ""
+
+#: ../robust/functions/shortcodes/profile.php:36
+#: ../robust/functions/shortcodes/profile.php:77
+msgid "Enter the profile description text."
+msgstr ""
+
+#: ../robust/functions/shortcodes/profile.php:42
+msgid "Insert Profile Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/profile.php:48
+msgid "Profile"
+msgstr ""
+
+#: ../robust/functions/shortcodes/social.php:18
+msgid "Enter your facebook profile URL"
+msgstr ""
+
+#: ../robust/functions/shortcodes/social.php:24
+msgid "Enter your twitter profile URL"
+msgstr ""
+
+#: ../robust/functions/shortcodes/social.php:30
+msgid "Enter your google plus profile URL"
+msgstr ""
+
+#: ../robust/functions/shortcodes/social.php:36
+msgid "Enter your linkedin profile URL"
+msgstr ""
+
+#: ../robust/functions/shortcodes/social.php:42
+msgid "Enter your github profile URL"
+msgstr ""
+
+#: ../robust/functions/shortcodes/social.php:48
+msgid "Enter your pinterest profile URL"
+msgstr ""
+
+#: ../robust/functions/shortcodes/social.php:54
+msgid "Insert Social Link Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/tabs.php:26
+msgid "Tab Title"
+msgstr ""
+
+#: ../robust/functions/shortcodes/tabs.php:27
+msgid "Enter the tab title."
+msgstr ""
+
+#: ../robust/functions/shortcodes/tabs.php:39
+msgid "Tab Content"
+msgstr ""
+
+#: ../robust/functions/shortcodes/tabs.php:46
+msgid "Add More Tab"
+msgstr ""
+
+#: ../robust/functions/shortcodes/tabs.php:49
+msgid "Insert Tabs Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/tabs.php:55
+msgid "Tabs"
+msgstr ""
+
+#: ../robust/functions/shortcodes/tabs.php:70
+msgid "Enter the tab title"
+msgstr ""
+
+#: ../robust/functions/shortcodes/tabs.php:87
+msgid "Enter the tab content"
+msgstr ""
+
+#: ../robust/functions/shortcodes/teaser.php:28
+#: ../robust/functions/shortcodes/teaser.php:108
+msgid "Nested"
+msgstr ""
+
+#: ../robust/functions/shortcodes/teaser.php:29
+#: ../robust/functions/shortcodes/teaser.php:109
+msgid "Centered"
+msgstr ""
+
+#: ../robust/functions/shortcodes/teaser.php:51
+msgid "Enter the title."
+msgstr ""
+
+#: ../robust/functions/shortcodes/teaser.php:70
+#: ../robust/functions/shortcodes/teaser.php:157
+msgid "The title link destination URL."
+msgstr ""
+
+#: ../robust/functions/shortcodes/teaser.php:75
+msgid "Teaser Content"
+msgstr ""
+
+#: ../robust/functions/shortcodes/teaser.php:82
+msgid "Add More Block"
+msgstr ""
+
+#: ../robust/functions/shortcodes/teaser.php:85
+msgid "Insert Teaser Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/teaser.php:91
+msgid "Teaser"
+msgstr ""
+
+#: ../robust/functions/shortcodes/testimonial.php:39
+#: ../robust/functions/shortcodes/testimonial.php:96
+msgid "Testimony Author"
+msgstr ""
+
+#: ../robust/functions/shortcodes/testimonial.php:40
+#: ../robust/functions/shortcodes/testimonial.php:97
+msgid "Enter the testimony author name."
+msgstr ""
+
+#: ../robust/functions/shortcodes/testimonial.php:45
+#: ../robust/functions/shortcodes/testimonial.php:104
+msgid "Testimony Author Meta"
+msgstr ""
+
+#: ../robust/functions/shortcodes/testimonial.php:46
+#: ../robust/functions/shortcodes/testimonial.php:105
+msgid "The author job, company or website name."
+msgstr ""
+
+#: ../robust/functions/shortcodes/testimonial.php:51
+msgid "Testimony Content"
+msgstr ""
+
+#: ../robust/functions/shortcodes/testimonial.php:61
+msgid "Insert Testimonial Shortcode"
+msgstr ""
+
+#: ../robust/functions/shortcodes/testimonial.php:67
+#: ../robust/functions/shortcodes/testimonial.php:129
+msgid "Testimonial"
+msgstr ""
+
+#: ../robust/functions/shortcodes/testimonial.php:112
+msgid "Testimony Text"
+msgstr ""
+
+#: ../robust/functions/shortcodes/video.php:18
+msgid ""
+"Paste the video URL here, click <a href=\"http://codex.wordpress.org/"
+"Embeds#Okay.2C_So_What_Sites_Can_I_Embed_From.3F\" target=\"_blank\">here</"
+"a> to see all available video hosts."
+msgstr ""
+
+#: ../robust/functions/shortcodes/video.php:24
+msgid "Insert Video Shortcode"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-about.php:26
+msgid "A widget to display a little about your company."
+msgstr ""
+
+#: ../robust/functions/widgets/widget-about.php:31
+msgid " About"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-about.php:89
+#: ../robust/functions/widgets/widget-dribbble.php:98
+#: ../robust/functions/widgets/widget-embed.php:78
+#: ../robust/functions/widgets/widget-facebook.php:92
+#: ../robust/functions/widgets/widget-flickr.php:95
+#: ../robust/functions/widgets/widget-recent-portfolio.php:82
+#: ../robust/functions/widgets/widget-tweets.php:96
+#: ../twentyeleven/inc/widgets.php:157
+msgid "Title:"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-about.php:94
+msgid "Email:"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-about.php:99
+msgid "Phone:"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-about.php:104
+msgid "Address:"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-about.php:109
+msgid "Short description:"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-dribbble.php:26
+msgid "Dribbble shots widget."
+msgstr ""
+
+#: ../robust/functions/widgets/widget-dribbble.php:31
+msgid " Dribbble"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-dribbble.php:103
+msgid "Dribbble Username:"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-dribbble.php:108
+#: ../robust/functions/widgets/widget-flickr.php:105
+msgid "Number of photo:"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-embed.php:26
+msgid "A video/audio embed widget."
+msgstr ""
+
+#: ../robust/functions/widgets/widget-embed.php:31
+msgid " Embed"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-embed.php:83
+msgid "Embed Code:"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-facebook.php:26
+msgid "Facebook likebox widget."
+msgstr ""
+
+#: ../robust/functions/widgets/widget-facebook.php:31
+msgid " Facebook"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-facebook.php:97
+msgid "Facebook Page ID:"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-flickr.php:26
+msgid "Flickr photo stream widget."
+msgstr ""
+
+#: ../robust/functions/widgets/widget-flickr.php:31
+msgid " Flickr"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-flickr.php:100
+msgid "Flickr User ID:"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-recent-portfolio.php:26
+msgid "The most recent portfolio on your site."
+msgstr ""
+
+#: ../robust/functions/widgets/widget-recent-portfolio.php:31
+msgid " Recent Portfolio"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-recent-portfolio.php:51
+#: ../robust/includes/content-audio.php:20
+#: ../robust/includes/content-gallery.php:37
+#: ../robust/includes/content-image.php:19
+#: ../robust/includes/content-link.php:16
+#: ../robust/includes/content-link.php:18
+#: ../robust/includes/content-portfolio.php:11
+#: ../robust/includes/content-status.php:11
+#: ../robust/includes/content-video.php:18 ../robust/includes/content.php:12
+#: ../robust/includes/content.php:23 ../twentyeleven/content-aside.php:16
+#: ../twentyeleven/content-featured.php:14
+#: ../twentyeleven/content-gallery.php:16
+#: ../twentyeleven/content-gallery.php:48 ../twentyeleven/content-image.php:15
+#: ../twentyeleven/content-link.php:16 ../twentyeleven/content-quote.php:14
+#: ../twentyeleven/content-status.php:15 ../twentyeleven/content.php:15
+#: ../twentyeleven/content.php:19 ../twentyeleven/showcase.php:120
+#: ../twentyeleven/showcase.php:199 ../twentyeleven/inc/widgets.php:89
+#: ../twentytwelve/content-aside.php:13 ../twentytwelve/content-aside.php:20
+#: ../twentytwelve/content-image.php:17 ../twentytwelve/content-link.php:18
+#: ../twentytwelve/content-quote.php:17 ../twentytwelve/content-status.php:15
+#: ../twentytwelve/content.php:23
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-recent-portfolio.php:87
+msgid "Number of item:"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-tweets.php:26
+msgid "A widget to displays your tweets."
+msgstr ""
+
+#: ../robust/functions/widgets/widget-tweets.php:31
+msgid " Tweets"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-tweets.php:39
+msgid "Tweets"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-tweets.php:63
+msgid "loading tweets..."
+msgstr ""
+
+#: ../robust/functions/widgets/widget-tweets.php:101
+msgid "Twitter Username:"
+msgstr ""
+
+#: ../robust/functions/widgets/widget-tweets.php:106
+msgid "Number of Tweet:"
+msgstr ""
+
+#: ../robust/includes/content-audio.php:29
+#: ../robust/includes/content-gallery.php:46
+#: ../robust/includes/content-image.php:28
+#: ../robust/includes/content-quote.php:37
+#: ../robust/includes/content-status.php:20
+#: ../robust/includes/content-video.php:27 ../robust/includes/content.php:32
+#, php-format
+msgid "Posted on %1$s by %2$s "
+msgstr ""
+
+#: ../robust/includes/content-audio.php:33
+#: ../robust/includes/content-gallery.php:50
+#: ../robust/includes/content-image.php:32
+#: ../robust/includes/content-quote.php:41
+#: ../robust/includes/content-status.php:24
+#: ../robust/includes/content-video.php:31 ../robust/includes/content.php:36
+msgid "in "
+msgstr ""
+
+#: ../robust/includes/content-audio.php:34
+#: ../robust/includes/content-gallery.php:51
+#: ../robust/includes/content-image.php:33
+#: ../robust/includes/content-quote.php:42
+#: ../robust/includes/content-status.php:25
+#: ../robust/includes/content-video.php:32 ../robust/includes/content.php:37
+msgid " with "
+msgstr ""
+
+#: ../robust/includes/page-title.php:32
+msgid "Search Result"
+msgstr ""
+
+#: ../robust/includes/page-title.php:37
+#, php-format
+msgid "We found %1$s result for \"%2$s\""
+msgstr ""
+
+#: ../robust/includes/page-title.php:44
+msgid "Error 404"
+msgstr ""
+
+#: ../robust/includes/page-title.php:45
+msgid "Page not Found"
+msgstr ""
+
+#: ../robust/includes/page-title.php:54
+#, php-format
+msgid "All posts in %s"
+msgstr ""
+
+#: ../robust/includes/page-title.php:56
+#, php-format
+msgid "All posts tagged %s"
+msgstr ""
+
+#: ../robust/includes/page-title.php:58 ../robust/includes/page-title.php:60
+#: ../robust/includes/page-title.php:62
+#, php-format
+msgid "Archive for %s"
+msgstr ""
+
+#: ../robust/includes/page-title.php:66
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../twentyeleven/404.php:17 ../twentytwelve/404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../twentyeleven/404.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+
+#: ../twentyeleven/404.php:28
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../twentyeleven/404.php:36
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../twentyeleven/archive.php:25 ../twentytwelve/archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../twentyeleven/archive.php:27 ../twentytwelve/archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../twentyeleven/archive.php:29 ../twentytwelve/archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../twentyeleven/archive.php:31
+msgid "Blog Archives"
+msgstr ""
+
+#: ../twentyeleven/archive.php:61 ../twentyeleven/author.php:78
+#: ../twentyeleven/category.php:54 ../twentyeleven/index.php:41
+#: ../twentyeleven/tag.php:54
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: ../twentyeleven/author.php:28 ../twentytwelve/author.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../twentyeleven/author.php:49 ../twentyeleven/content-single.php:60
+#: ../twentytwelve/author.php:53 ../twentytwelve/content.php:53
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../twentyeleven/category.php:19 ../twentytwelve/category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../twentyeleven/comments.php:33 ../twentytwelve/comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: ../twentyeleven/comments.php:40 ../twentyeleven/comments.php:60
+#: ../twentytwelve/comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: ../twentyeleven/content-aside.php:17
+msgid "Aside"
+msgstr ""
+
+#: ../twentyeleven/content-aside.php:33 ../twentyeleven/content-gallery.php:32
+#: ../twentyeleven/content-image.php:27 ../twentyeleven/content-link.php:33
+#: ../twentyeleven/content-quote.php:35 ../twentyeleven/content-status.php:34
+#: ../twentyeleven/content.php:41 ../twentyeleven/functions.php:345
+#: ../twentytwelve/content-aside.php:15 ../twentytwelve/content-image.php:13
+#: ../twentytwelve/content-link.php:14 ../twentytwelve/content-quote.php:13
+#: ../twentytwelve/content-status.php:21 ../twentytwelve/content.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/content-aside.php:42 ../twentyeleven/content-gallery.php:87
+#: ../twentyeleven/content-image.php:64 ../twentyeleven/content-link.php:42
+#: ../twentyeleven/content-quote.php:69 ../twentyeleven/content-status.php:43
+#: ../twentyeleven/content.php:79 ../twentyeleven/showcase.php:201
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:27 ../twentytwelve/content.php:28
+msgid "Leave a reply"
+msgstr ""
+
+#: ../twentyeleven/content-aside.php:42 ../twentyeleven/content-gallery.php:87
+#: ../twentyeleven/content-image.php:64 ../twentyeleven/content-link.php:42
+#: ../twentyeleven/content-quote.php:69 ../twentyeleven/content-status.php:43
+#: ../twentyeleven/content.php:79 ../twentyeleven/showcase.php:201
+msgid "<b>1</b> Reply"
+msgstr ""
+
+#: ../twentyeleven/content-aside.php:42 ../twentyeleven/content-gallery.php:87
+#: ../twentyeleven/content-image.php:64 ../twentyeleven/content-link.php:42
+#: ../twentyeleven/content-quote.php:69 ../twentyeleven/content-status.php:43
+#: ../twentyeleven/content.php:79 ../twentyeleven/showcase.php:201
+msgid "<b>%</b> Replies"
+msgstr ""
+
+#: ../twentyeleven/content-featured.php:29
+#: ../twentyeleven/content-featured.php:38
+#: ../twentyeleven/content-gallery.php:62
+#: ../twentyeleven/content-gallery.php:72 ../twentyeleven/content-image.php:47
+#: ../twentyeleven/content-image.php:56 ../twentyeleven/content-quote.php:44
+#: ../twentyeleven/content-quote.php:54 ../twentyeleven/content-single.php:30
+#: ../twentyeleven/content-single.php:33 ../twentyeleven/content.php:51
+#: ../twentyeleven/content.php:63 ../twentytwelve/functions.php:332
+#: ../twentytwelve/functions.php:335
+msgid ", "
+msgstr ""
+
+#: ../twentyeleven/content-featured.php:31
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../twentyeleven/content-featured.php:33
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../twentyeleven/content-gallery.php:17
+msgid "Gallery"
+msgstr ""
+
+#: ../twentyeleven/content-gallery.php:47
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgstr ""
+
+#: ../twentyeleven/content-gallery.php:66 ../twentyeleven/content-image.php:51
+#: ../twentyeleven/content-quote.php:48 ../twentyeleven/content.php:55
+#, php-format
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr ""
+
+#: ../twentyeleven/content-gallery.php:78 ../twentyeleven/content-image.php:59
+#: ../twentyeleven/content-quote.php:60 ../twentyeleven/content.php:69
+#, php-format
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr ""
+
+#: ../twentyeleven/content-image.php:34
+#, php-format
+msgid ""
+"<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s"
+"\">%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> "
+"<span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s"
+"\" rel=\"author\">%6$s</a></span></span>"
+msgstr ""
+
+#: ../twentyeleven/content-image.php:39 ../twentyeleven/functions.php:590
+#: ../twentytwelve/functions.php:346
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../twentyeleven/content-quote.php:15
+msgid "Quote"
+msgstr ""
+
+#: ../twentyeleven/content-single.php:35
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s by <a href=\"%6$s\">%5$s</a>. "
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../twentyeleven/content-single.php:37
+#, php-format
+msgid ""
+"This entry was posted in %1$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a "
+"href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../twentyeleven/content-single.php:39
+#, php-format
+msgid ""
+"This entry was posted by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href="
+"\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../twentyeleven/content-single.php:64 ../twentytwelve/content.php:57
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/content.php:16
+msgid "Featured"
+msgstr ""
+
+#: ../twentyeleven/footer.php:27 ../twentytwelve/footer.php:17
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../twentyeleven/footer.php:27 ../twentytwelve/footer.php:17
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentyeleven/functions.php:164
+msgid "Wheel"
+msgstr ""
+
+#: ../twentyeleven/functions.php:170
+msgid "Shore"
+msgstr ""
+
+#: ../twentyeleven/functions.php:176
+msgid "Trolley"
+msgstr ""
+
+#: ../twentyeleven/functions.php:182
+msgid "Pine Cone"
+msgstr ""
+
+#: ../twentyeleven/functions.php:188
+msgid "Chessboard"
+msgstr ""
+
+#: ../twentyeleven/functions.php:194
+msgid "Lanterns"
+msgstr ""
+
+#: ../twentyeleven/functions.php:200
+msgid "Willow"
+msgstr ""
+
+#: ../twentyeleven/functions.php:206
+msgid "Hanoi Plant"
+msgstr ""
+
+#: ../twentyeleven/functions.php:394 ../twentytwelve/functions.php:206
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../twentyeleven/functions.php:403
+msgid "Showcase Sidebar"
+msgstr ""
+
+#: ../twentyeleven/functions.php:405
+msgid "The sidebar for the optional Showcase Template"
+msgstr ""
+
+#: ../twentyeleven/functions.php:413
+msgid "Footer Area One"
+msgstr ""
+
+#: ../twentyeleven/functions.php:415 ../twentyeleven/functions.php:425
+#: ../twentyeleven/functions.php:435
+msgid "An optional widget area for your site footer"
+msgstr ""
+
+#: ../twentyeleven/functions.php:423
+msgid "Footer Area Two"
+msgstr ""
+
+#: ../twentyeleven/functions.php:433
+msgid "Footer Area Three"
+msgstr ""
+
+#: ../twentyeleven/functions.php:453 ../twentyeleven/single.php:18
+#: ../twentytwelve/functions.php:250 ../twentytwelve/single.php:20
+msgid "Post navigation"
+msgstr ""
+
+#: ../twentyeleven/functions.php:454 ../twentytwelve/functions.php:251
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../twentyeleven/functions.php:455 ../twentytwelve/functions.php:252
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/functions.php:542
+#, php-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr ""
+
+#: ../twentyeleven/functions.php:566
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: ../twentyeleven/functions.php:584
+#, php-format
+msgid ""
+"<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+"a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: ../twentyeleven/header.php:129
+msgid "Main menu"
+msgstr ""
+
+#: ../twentyeleven/header.php:131
+msgid "Skip to primary content"
+msgstr ""
+
+#: ../twentyeleven/header.php:132
+msgid "Skip to secondary content"
+msgstr ""
+
+#: ../twentyeleven/image.php:18
+msgid "Image navigation"
+msgstr ""
+
+#: ../twentyeleven/image.php:19 ../twentytwelve/image.php:41
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../twentyeleven/image.php:20 ../twentytwelve/image.php:42
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../twentyeleven/image.php:30
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> "
+"at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> "
+"in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: ../twentyeleven/search.php:18 ../twentytwelve/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../twentyeleven/search.php:46 ../twentytwelve/search.php:38
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../twentyeleven/searchform.php:11
+msgid "Search"
+msgstr ""
+
+#: ../twentyeleven/showcase.php:77
+msgid "Featured Post"
+msgstr ""
+
+#: ../twentyeleven/showcase.php:150
+#, php-format
+msgid "Featuring: %s"
+msgstr ""
+
+#: ../twentyeleven/showcase.php:160
+msgid "Recent Posts"
+msgstr ""
+
+#: ../twentyeleven/sidebar.php:19 ../twentytwelve/archive.php:35
+msgid "Archives"
+msgstr ""
+
+#: ../twentyeleven/sidebar.php:26
+msgid "Meta"
+msgstr ""
+
+#: ../twentyeleven/single.php:19
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../twentyeleven/single.php:20
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/tag.php:19 ../twentytwelve/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:62
+msgid "Default Layout"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:94
+#: ../twentyeleven/inc/theme-options.php:95
+msgid "Theme Options"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:110
+msgid ""
+"Some themes provide customization options that are grouped together on a "
+"Theme Options screen. If you change themes, options may change or disappear, "
+"as they are theme-specific. Your current theme, Twenty Eleven, provides the "
+"following Theme Options:"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:112
+msgid ""
+"<strong>Color Scheme</strong>: You can choose a color palette of \"Light"
+"\" (light background with dark text) or \"Dark\" (dark background with light "
+"text) for your site."
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:113
+msgid ""
+"<strong>Link Color</strong>: You can choose the color used for text links on "
+"your site. You can enter the HTML color or hex code, or you can choose "
+"visually by clicking the \"Select a Color\" button to pick from a color "
+"wheel."
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:114
+msgid ""
+"<strong>Default Layout</strong>: You can choose if you want your site&#8217;"
+"s default layout to have a sidebar on the left, the right, or not at all."
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:116
+msgid ""
+"Remember to click \"Save Changes\" to save any changes you have made to the "
+"theme options."
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:118
+msgid "For more information:"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:119
+msgid ""
+"<a href=\"http://codex.wordpress.org/Appearance_Theme_Options_Screen\" "
+"target=\"_blank\">Documentation on Theme Options</a>"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:120
+msgid ""
+"<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support Forums</"
+"a>"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:127
+msgid "Overview"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:149
+msgid "Light"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:155
+msgid "Dark"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:173
+msgid "Content on left"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:178
+msgid "Content on right"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:183
+msgid "One-column, no sidebar"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:276
+#, php-format
+msgid "Default color: %s"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:312
+#, php-format
+msgid "%s Theme Options"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:498
+msgid "Layout"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:19
+msgid ""
+"Use this widget to list your recent Aside, Status, Quote, and Link posts"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:20
+msgid "Twenty Eleven Ephemera"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:52
+msgid "Ephemera"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:91 ../twentyeleven/inc/widgets.php:107
+msgid "0 <span class=\"reply\">comments &rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:91 ../twentyeleven/inc/widgets.php:107
+msgid "1 <span class=\"reply\">comment &rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:91 ../twentyeleven/inc/widgets.php:107
+msgid "% <span class=\"reply\">comments &rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:105
+#, php-format
+msgid "Link to %s"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:160
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../twentytwelve/404.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:27 ../twentytwelve/content.php:28
+msgid "1 Reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:27 ../twentytwelve/content.php:28
+msgid "% Replies"
+msgstr ""
+
+#: ../twentytwelve/content.php:14
+msgid "Featured post"
+msgstr ""
+
+#: ../twentytwelve/functions.php:208
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: ../twentytwelve/functions.php:216
+msgid "First Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:218 ../twentytwelve/functions.php:228
+msgid ""
+"Appears when using the optional Front Page template with a page set as "
+"Static Front Page"
+msgstr ""
+
+#: ../twentytwelve/functions.php:226
+msgid "Second Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:277
+msgid "(Edit)"
+msgstr ""
+
+#: ../twentytwelve/functions.php:292
+msgid "Post author"
+msgstr ""
+
+#: ../twentytwelve/functions.php:352
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:354
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:356
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: ../twentytwelve/image.php:26
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
