@@ -1612,7 +1612,11 @@ ul.tabs-nav li:last-child{
     padding-top: 48px;
 }
 
-#page-title h1 {
+#page-title {
     font-size: 1.8em;
     padding: 9px 0;
+}
+
+#top_search {
+    display: none;
 }
