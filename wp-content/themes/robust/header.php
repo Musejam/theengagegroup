@@ -46,7 +46,7 @@
         <div class="container">
 
             <!-- LOGO START -->
-            <div id="logo" class="grid one-fourth">
+            <div id="logo" class="grid one-third">
                 <?php if ( ft_get_option('logo') ) : ?>
                     <h1 id="site-title"><a href="<?php echo home_url(); ?>"><img src="<?php echo ft_get_option('logo'); ?>" alt="<?php bloginfo('name'); ?>"></a></h1>
                 <?php else : ?>
@@ -57,7 +57,7 @@
 
 
             <!--PRIMARY MENU START-->
-            <div class="grid three-fourth">
+            <div class="grid two-thirds">
                 <?php if ( has_nav_menu( 'primary_menu' ) ) : ?>
                     <?php 
                     wp_nav_menu( array(
